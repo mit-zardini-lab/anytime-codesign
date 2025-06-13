@@ -1,0 +1,14 @@
+dp { # Note that catalogues implemented by yaml files should be named with 'dp' (not 'catalogue')
+  # Example of Co-Design model of a coverage algorithm
+  provides covered_set [`set_coverage] # functionality of the algorithm. One instance
+  provides angualr_actuation_error_budget [rad]
+  provides map [`maps]
+
+  requires physical_radius_of_robot [m]
+  requires sensoring_radius_of_robot [m]
+  requires speed_of_robot [m/s]
+  requires execution_time [s]
+
+  # one can choose to write the details of each implementation, i.e. the results of executing a certain algorithm with specific parameters, in to an entry in the yaml file.
+  implemented-by yaml resource("coverage_algorithm_catalogues/coverage_algorithm_catalogue_1.yaml")
+}

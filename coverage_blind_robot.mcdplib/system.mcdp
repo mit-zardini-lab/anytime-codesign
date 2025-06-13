@@ -1,0 +1,26 @@
+mcdp {
+  # Example of composing sub-dps into another dp
+  provides covered_set [`set_coverage]
+  provides map [`maps]
+
+  requires total_cost [USD]
+  requires total_execution_time [s]
+
+  coverage_algorithm_dp = instance `coverage_algorithm # finds and instantiates the coverage algorithm dp
+  robot_dp = instance `robot # finds and instantiates the robot dp
+
+  # connecting the overall coverage with the coverage of the algorithm
+  # we can at most cover what the algorithm covers
+  provided covered_set <= covered_set provided by coverage_algorithm_dp
+  provided map <= map provided by coverage_algorithm_dp
+  # the total cost in this simple example is just the cost of the robot
+  required total_cost >= cost required by robot_dp
+  # the total execution time is the execution time according to the algorithm
+  required total_execution_time >= execution_time required by coverage_algorithm_dp
+
+  # We also need to connect functionalities and resoures of the robot and the algorithm
+  physical_radius_of_robot required by coverage_algorithm_dp <= physical_radius provided by robot_dp
+  sensoring_radius_of_robot required by coverage_algorithm_dp <= sensoring_radius provided by robot_dp
+  speed_of_robot required by coverage_algorithm_dp <= speed provided by robot_dp
+  angualr_actuation_error_budget provided by coverage_algorithm_dp >= angualr_actuation_error_budget required by robot_dp
+}
