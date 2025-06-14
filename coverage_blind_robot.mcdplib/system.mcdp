@@ -1,6 +1,6 @@
 mcdp {
   # Example of composing sub-dps into another dp
-  provides covered_set [`set_coverage]
+  provides covered_set [`guaranteed_coverage]
   provides map [`maps]
 
   requires total_cost [USD]
@@ -22,5 +22,5 @@ mcdp {
   physical_radius_of_robot required by coverage_algorithm_dp <= physical_radius provided by robot_dp
   sensoring_radius_of_robot required by coverage_algorithm_dp <= sensoring_radius provided by robot_dp
   speed_of_robot required by coverage_algorithm_dp <= speed provided by robot_dp
-  angualr_actuation_error_budget provided by coverage_algorithm_dp >= angualr_actuation_error_budget required by robot_dp
+  angular_actuation_error_budget provided by coverage_algorithm_dp >= angular_actuation_error_budget required by robot_dp
 }

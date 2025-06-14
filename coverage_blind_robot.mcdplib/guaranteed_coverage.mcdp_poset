@@ -1,5 +1,5 @@
 poset {
-  # Represents the poset of set coverage utility.
+  # Represents the poset of guaranteed coverages.
   # One possible preference order is set inclusion, essentially A <= B if A is a subset of B.
   # The order in this file does not contain the semantics of set inclusion, that should be computed by other programs, e.g., the program for the planning algorithm.
 
