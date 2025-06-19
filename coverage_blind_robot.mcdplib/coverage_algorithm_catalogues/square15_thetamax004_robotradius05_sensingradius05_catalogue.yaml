@@ -1,0 +1,520 @@
+F:
+- '`guaranteed_coverage'
+- rad
+- '`maps'
+R:
+- m
+- m
+- m/s
+- s
+implementations:
+  square15_thetamax004_robotradius05_sensingradius05_after_00000_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon0'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 0.04 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00001_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon1'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1.2 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00002_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon2'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2.08 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00003_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon3'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3.64 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00004_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon4'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4.28 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00005_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon4'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4.36 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00006_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon4'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4.4 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00007_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon5'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 6.72 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00008_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon6'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 8 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00009_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon7'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 8.72 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00010_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon7'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 8.76 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00011_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon8'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 8.8 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00012_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon9'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 10 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00013_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon10'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 11.24 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00014_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon11'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 12.84 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00015_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon12'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 13.48 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00016_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon12'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 13.52 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00017_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon12'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 13.56 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00018_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon13'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 15.88 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00019_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon14'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 17.28 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00020_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon15'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 18 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00021_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon15'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 18.04 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00022_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon15'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 18.08 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00023_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon16'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 20.16 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00024_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon17'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 20.44 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00025_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon18'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 20.64 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00026_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon18'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 20.68 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00027_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon18'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 20.72 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00028_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon19'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 22.8 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00029_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon20'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 24.92 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00030_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon21'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 25.48 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00031_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon21'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 25.52 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00032_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon21'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 25.56 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00033_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon22'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 27.64 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00034_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon22'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 27.96 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00035_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon22'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 28.2 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00036_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon22'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 28.24 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00037_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon22'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 28.28 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00038_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon23'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 30.36 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00039_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon24'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 30.68 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00040_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon24'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 30.92 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00041_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon24'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 30.96 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00042_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon24'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 31 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00043_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon25'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 33.2 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00044_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon26'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 34.88 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00045_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon27'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 35.52 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00046_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon27'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 35.56 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00047_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon27'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 35.6 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00048_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon28'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 37.68 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00049_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon28'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 38 s
+  square15_thetamax004_robotradius05_sensingradius05_after_00050_actions:
+    f_max:
+    - '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon28'
+    - 0.04 rad
+    - '`maps: map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 38.2 s

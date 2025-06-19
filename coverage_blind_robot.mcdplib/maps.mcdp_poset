@@ -2,4 +2,5 @@ poset {
   # File that defines maps as a poset. Only consider a single map for now, since changing map may require non-trivial reconfiguration, such as changing the poset for covered sets.
   # it might contain more information, such as initial state.
   map_a
+  map_square
 }
