@@ -11,6 +11,6 @@ catalogue {
 
   # this robot_1 provides a physical radius of 0.2 m, a sensoring radius of 0.21 m, a speed of 0.1 m/s; requires cost of 10 USD, and an angular actuation error budget of 0.01 deg.
   # this is another way to generate a catalogue, only practical when one does not have too many entries
-  0.2 m, 0.21 m, 0.1 m/s <--| robot_1 |--> 10 USD, 0.01 deg
+  0.5 m, 0.5 m, 0.5 m/s <--| robot_1 |--> 10 USD, 0.01 deg
   
 }
