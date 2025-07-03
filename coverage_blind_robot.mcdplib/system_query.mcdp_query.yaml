@@ -5,7 +5,7 @@ model: '`system'
 query:
   query_type: FixFunMinRes
   min_f:
-    covered_set: '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon16' # This is the way to refer to an element in the self-defined poset.
+    covered_set: '`guaranteed_coverage: square15_thetamax004_robotradius05_sensingradius05_polygon0' # This is the way to refer to an element in the self-defined poset.
     map: '`maps: map_square'
   max_r: # The solver needs an upper bound for the resources. If the solver cannot find a solution within the given upper bound, it will return no solution as if it's infeasible to satisfy the functionality.
     total_cost: 1000 USD
