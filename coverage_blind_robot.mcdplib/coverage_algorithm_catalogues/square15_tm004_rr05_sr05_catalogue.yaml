@@ -12,7 +12,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P22356a'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -22,7 +22,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P8992d9'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -32,7 +32,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pc415a2'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -42,7 +42,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P20d5fc'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -52,7 +52,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pb4d0d3'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -62,7 +62,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P6d8143'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -72,7 +72,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pe34898'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -82,7 +82,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P624aad'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -92,7 +92,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P89f6c1'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -102,7 +102,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P46cb2e'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -112,7 +112,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pa6483d'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -122,7 +122,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pee9a70'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -132,7 +132,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P72452d'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -142,7 +142,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P58bec7'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -152,7 +152,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P2877b0'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -162,7 +162,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P67ea7f'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -172,7 +172,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P6b44f3'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -182,7 +182,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P6b44f3'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -192,7 +192,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P86d639'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -202,7 +202,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pd0f8ae'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -212,7 +212,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P3179d2'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -222,7 +222,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P6b4763'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -232,7 +232,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P2e80ab'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -242,7 +242,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pb2519d'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -252,7 +252,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P43679e'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -262,7 +262,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pb3a632'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -272,7 +272,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P9fa932'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -282,7 +282,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P071db7'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -292,7 +292,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pfdbfbe'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -302,7 +302,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pfdbfbe'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -312,7 +312,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pcc05a6'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -322,7 +322,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P8aa5dd'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -332,7 +332,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P39453b'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -342,7 +342,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P19b997'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -352,7 +352,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P8d1cf0'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -362,7 +362,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P8684c2'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -372,7 +372,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P955803'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -382,7 +382,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P963f5d'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -392,7 +392,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pf8e86c'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -402,7 +402,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pc0f0ab'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -412,7 +412,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pfe9688'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -422,7 +422,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P40a0f5'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -432,7 +432,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P5bf777'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -442,7 +442,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Paf3e65'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -452,7 +452,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P82a4d7'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -462,7 +462,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P5a11fa'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -472,7 +472,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P0b1ae1'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -482,7 +482,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P05dbea'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -492,7 +492,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pa0faba'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -502,7 +502,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pbfbf19'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -512,7 +512,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P723a0d'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -522,7 +522,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P949a6e'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -532,7 +532,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pc554b8'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -542,7 +542,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P437bd7'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -552,7 +552,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P3fed2a'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -562,7 +562,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pf9e403'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -572,7 +572,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Ped0701'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -582,7 +582,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P0fde2a'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -592,7 +592,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P6ac4a0'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -602,7 +602,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P7cec0c'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -612,7 +612,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P757879'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -622,7 +622,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P369d9e'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -632,7 +632,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P8629c7'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -642,7 +642,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pd9a18a'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -652,7 +652,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P66c563'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -662,7 +662,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pbf5ed5'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -672,7 +672,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P0ecf78'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -682,7 +682,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pdb522c'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -692,7 +692,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P7a8279'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -702,7 +702,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P2d31fa'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -712,7 +712,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P2d31fa'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -722,7 +722,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pb74237'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -732,7 +732,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pd3f328'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -742,7 +742,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pd05376'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -752,7 +752,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P29e9ab'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -762,7 +762,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pa2fbb9'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -772,7 +772,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P2923fc'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -782,7 +782,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P042c4a'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -792,7 +792,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P133b87'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -802,7 +802,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pec3c36'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -812,7 +812,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P214983'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -822,7 +822,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P4d5889'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -832,7 +832,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pddf815'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -842,7 +842,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pc10c85'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -852,7 +852,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P1fa317'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -862,7 +862,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P2c3834'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -872,7 +872,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pbb58a0'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -882,7 +882,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pea29dd'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -892,7 +892,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P330525'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -902,7 +902,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pce3c2d'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -912,7 +912,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P3effd4'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -922,7 +922,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P5539ad'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -932,7 +932,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P494232'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -942,7 +942,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pde3083'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -952,7 +952,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P67666d'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -962,7 +962,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pf2d79a'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -972,7 +972,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P53fb02'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -982,7 +982,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pd9c5ea'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -992,7 +992,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pbfa857'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1002,7 +1002,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P70bbb1'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1012,7 +1012,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P353aa5'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1022,7 +1022,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pbc3352'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1032,7 +1032,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P072edc'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1042,7 +1042,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pb5cd87'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1052,7 +1052,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pcfa67b'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1062,7 +1062,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pcfa67b'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1072,7 +1072,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P913796'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1082,7 +1082,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P716a16'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1092,7 +1092,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pda8e8b'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1102,7 +1102,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P7b1140'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1112,7 +1112,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pb33303'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1122,7 +1122,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P9c004c'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1132,7 +1132,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P9c86da'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1142,7 +1142,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P003d0a'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1152,7 +1152,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pee934a'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1162,7 +1162,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pe58ab3'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1172,7 +1172,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P3c3cac'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1182,7 +1182,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P1ecc1f'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1192,7 +1192,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P4a9ff5'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1202,7 +1202,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P516829'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1212,7 +1212,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P636e1a'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1222,7 +1222,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P764e28'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1232,7 +1232,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P97712b'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1242,7 +1242,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P947532'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1252,7 +1252,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P85ab13'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1262,7 +1262,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pdee384'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1272,7 +1272,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P0e59a2'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1282,7 +1282,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P36a839'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1292,7 +1292,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P6c7214'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1302,7 +1302,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pea61c6'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1312,7 +1312,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pec3d55'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1322,7 +1322,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pde0544'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1332,7 +1332,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P01e1a2'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1342,7 +1342,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P1e23ce'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1352,7 +1352,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P01e1a2'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1362,7 +1362,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P01e1a2'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1372,7 +1372,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P5ecb61'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1382,7 +1382,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P68ab17'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1392,7 +1392,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pa580cc'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1402,7 +1402,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P0d3e11'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1412,7 +1412,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pef8d74'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1422,7 +1422,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P31b373'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1432,7 +1432,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pe4d14a'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1442,7 +1442,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P1912c5'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1452,7 +1452,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P4235a1'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1462,7 +1462,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P2cdb6c'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1472,7 +1472,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P31d545'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1482,7 +1482,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pa05564'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1492,7 +1492,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P801026'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1502,7 +1502,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P4d408b'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1512,7 +1512,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P0a6080'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1522,7 +1522,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pd2d3b3'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1532,7 +1532,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P9a9e2b'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1542,7 +1542,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pae8b94'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1552,7 +1552,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P50df0d'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1562,7 +1562,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pb01c72'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1572,7 +1572,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P2c7137'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1582,7 +1582,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P25eea0'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1592,7 +1592,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pce85ad'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1602,7 +1602,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P6556f3'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1612,7 +1612,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pdaffe0'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1622,7 +1622,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P068e8b'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1632,7 +1632,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P068e8b'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1642,7 +1642,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P068e8b'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1652,7 +1652,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P6eefad'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1662,7 +1662,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P05acad'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1672,7 +1672,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P241115'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1682,7 +1682,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P595cde'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1692,7 +1692,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P460139'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1702,7 +1702,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P10bda3'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1712,7 +1712,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P343221'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1722,7 +1722,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P83bcab'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1732,7 +1732,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pe7bb1b'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1742,7 +1742,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P5e20df'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1752,7 +1752,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P55625d'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1762,7 +1762,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pe95ef1'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1772,7 +1772,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P9c42c1'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1782,7 +1782,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P01e9ce'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1792,7 +1792,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pd075ae'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1802,7 +1802,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pd075ae'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1812,7 +1812,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pb1f6b2'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1822,7 +1822,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P839d9f'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1832,7 +1832,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pff9907'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1842,7 +1842,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P632b24'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1852,7 +1852,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P8ede14'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1862,7 +1862,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P4b74e6'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1872,7 +1872,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P24d212'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1882,7 +1882,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pff8064'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1892,7 +1892,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P848840'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1902,7 +1902,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pba2316'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1912,7 +1912,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P949830'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1922,7 +1922,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P765652'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1932,7 +1932,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P2361e0'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1942,7 +1942,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pb2bed4'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1952,7 +1952,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P5850b7'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1962,7 +1962,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pa61968'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1972,7 +1972,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P510164'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1982,7 +1982,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P510164'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -1992,7 +1992,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P510164'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2002,7 +2002,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P387123'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2012,7 +2012,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pad63b7'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2022,7 +2022,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P62d497'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2032,7 +2032,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P6089ea'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2042,7 +2042,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P9d40e4'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2052,7 +2052,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P9f6e4f'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2062,7 +2062,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pa77d1b'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2072,7 +2072,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P4d3d34'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2082,7 +2082,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P4d3d34'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2092,7 +2092,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P2c344e'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2102,7 +2102,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pbc2a03'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2112,7 +2112,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P1a4506'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2122,7 +2122,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pf6b0b5'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2132,7 +2132,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P557c1a'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2142,7 +2142,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pda10b3'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2152,7 +2152,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P771d47'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2162,7 +2162,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P10dd98'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2172,7 +2172,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P4e7d7c'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2182,7 +2182,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pd20e88'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2192,7 +2192,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P741ae2'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2202,7 +2202,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P392f29'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2212,7 +2212,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pb5646a'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2222,7 +2222,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P220bc8'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2232,7 +2232,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P4f0bbd'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2242,7 +2242,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P246d07'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2252,7 +2252,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P2cbdd5'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2262,7 +2262,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P8e37a7'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2272,7 +2272,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P318bcf'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2282,7 +2282,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P2c1151'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2292,7 +2292,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pa11a69'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2302,7 +2302,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P61ab23'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2312,7 +2312,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pfdee2e'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2322,7 +2322,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P9688c3'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2332,7 +2332,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P119abf'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2342,7 +2342,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P86d53d'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2352,7 +2352,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pdbe878'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2362,7 +2362,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P6081ce'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2372,7 +2372,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P86882c'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2382,7 +2382,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pb8f4e3'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2392,7 +2392,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pc867f4'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2402,7 +2402,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Peec2b4'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2412,7 +2412,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: P36047e'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2422,7 +2422,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pbd36ce'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2432,7 +2432,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pc82041'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2442,7 +2442,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pbc8cbc'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2452,7 +2452,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pc245f6'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
@@ -2462,7 +2462,7 @@ implementations:
     f_max:
     - '`guaranteed_coverage: Pc77ea2'
     - 0.04 rad
-    - '`maps:  map_square'
+    - '`maps: map_square'
     r_min:
     - 0.5 m
     - 0.5 m
