@@ -1,0 +1,2470 @@
+F:
+- '`guaranteed_coverage'
+- rad
+- '`maps'
+R:
+- m
+- m
+- m/s
+- s
+implementations:
+  square15_tm004_rr05_sr05_00001acts:
+    f_max:
+    - '`guaranteed_coverage: P22356a'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 13.6004 s
+  square15_tm004_rr05_sr05_00002acts:
+    f_max:
+    - '`guaranteed_coverage: P8992d9'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 24.9885 s
+  square15_tm004_rr05_sr05_00006acts:
+    f_max:
+    - '`guaranteed_coverage: Pc415a2'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 50.0278 s
+  square15_tm004_rr05_sr05_00007acts:
+    f_max:
+    - '`guaranteed_coverage: P20d5fc'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 77.2705 s
+  square15_tm004_rr05_sr05_00011acts:
+    f_max:
+    - '`guaranteed_coverage: Pb4d0d3'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 95.9992 s
+  square15_tm004_rr05_sr05_00012acts:
+    f_max:
+    - '`guaranteed_coverage: P6d8143'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 109.6 s
+  square15_tm004_rr05_sr05_00013acts:
+    f_max:
+    - '`guaranteed_coverage: Pe34898'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 122.93 s
+  square15_tm004_rr05_sr05_00017acts:
+    f_max:
+    - '`guaranteed_coverage: P624aad'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 149.988 s
+  square15_tm004_rr05_sr05_00018acts:
+    f_max:
+    - '`guaranteed_coverage: P89f6c1'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 177.231 s
+  square15_tm004_rr05_sr05_00022acts:
+    f_max:
+    - '`guaranteed_coverage: P46cb2e'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 202.138 s
+  square15_tm004_rr05_sr05_00023acts:
+    f_max:
+    - '`guaranteed_coverage: Pa6483d'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 226.884 s
+  square15_tm004_rr05_sr05_00027acts:
+    f_max:
+    - '`guaranteed_coverage: Pee9a70'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 233.608 s
+  square15_tm004_rr05_sr05_00028acts:
+    f_max:
+    - '`guaranteed_coverage: P72452d'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 258.294 s
+  square15_tm004_rr05_sr05_00032acts:
+    f_max:
+    - '`guaranteed_coverage: P58bec7'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 288.039 s
+  square15_tm004_rr05_sr05_00033acts:
+    f_max:
+    - '`guaranteed_coverage: P2877b0'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 312.785 s
+  square15_tm004_rr05_sr05_00037acts:
+    f_max:
+    - '`guaranteed_coverage: P67ea7f'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 319.509 s
+  square15_tm004_rr05_sr05_00038acts:
+    f_max:
+    - '`guaranteed_coverage: P6b44f3'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 344.255 s
+  square15_tm004_rr05_sr05_00042acts:
+    f_max:
+    - '`guaranteed_coverage: P6b44f3'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 350.979 s
+  square15_tm004_rr05_sr05_00043acts:
+    f_max:
+    - '`guaranteed_coverage: P86d639'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 376.634 s
+  square15_tm004_rr05_sr05_00047acts:
+    f_max:
+    - '`guaranteed_coverage: Pd0f8ae'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 404.288 s
+  square15_tm004_rr05_sr05_00048acts:
+    f_max:
+    - '`guaranteed_coverage: P3179d2'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 429.034 s
+  square15_tm004_rr05_sr05_00052acts:
+    f_max:
+    - '`guaranteed_coverage: P6b4763'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 435.758 s
+  square15_tm004_rr05_sr05_00053acts:
+    f_max:
+    - '`guaranteed_coverage: P2e80ab'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 463.001 s
+  square15_tm004_rr05_sr05_00057acts:
+    f_max:
+    - '`guaranteed_coverage: Pb2519d'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 481.729 s
+  square15_tm004_rr05_sr05_00058acts:
+    f_max:
+    - '`guaranteed_coverage: P43679e'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 507.384 s
+  square15_tm004_rr05_sr05_00062acts:
+    f_max:
+    - '`guaranteed_coverage: Pb3a632'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 535.038 s
+  square15_tm004_rr05_sr05_00063acts:
+    f_max:
+    - '`guaranteed_coverage: P9fa932'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 562.281 s
+  square15_tm004_rr05_sr05_00067acts:
+    f_max:
+    - '`guaranteed_coverage: P071db7'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 581.01 s
+  square15_tm004_rr05_sr05_00068acts:
+    f_max:
+    - '`guaranteed_coverage: Pfdbfbe'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 605.755 s
+  square15_tm004_rr05_sr05_00072acts:
+    f_max:
+    - '`guaranteed_coverage: Pfdbfbe'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 612.48 s
+  square15_tm004_rr05_sr05_00073acts:
+    f_max:
+    - '`guaranteed_coverage: Pcc05a6'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 639.743 s
+  square15_tm004_rr05_sr05_00077acts:
+    f_max:
+    - '`guaranteed_coverage: P8aa5dd'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 660.408 s
+  square15_tm004_rr05_sr05_00078acts:
+    f_max:
+    - '`guaranteed_coverage: P39453b'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 685.154 s
+  square15_tm004_rr05_sr05_00082acts:
+    f_max:
+    - '`guaranteed_coverage: P19b997'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 691.878 s
+  square15_tm004_rr05_sr05_00083acts:
+    f_max:
+    - '`guaranteed_coverage: P8d1cf0'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 719.121 s
+  square15_tm004_rr05_sr05_00087acts:
+    f_max:
+    - '`guaranteed_coverage: P8684c2'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 744.028 s
+  square15_tm004_rr05_sr05_00088acts:
+    f_max:
+    - '`guaranteed_coverage: P955803'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 771.291 s
+  square15_tm004_rr05_sr05_00092acts:
+    f_max:
+    - '`guaranteed_coverage: P963f5d'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 791.956 s
+  square15_tm004_rr05_sr05_00093acts:
+    f_max:
+    - '`guaranteed_coverage: Pf8e86c'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 819.199 s
+  square15_tm004_rr05_sr05_00097acts:
+    f_max:
+    - '`guaranteed_coverage: Pc0f0ab'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 837.928 s
+  square15_tm004_rr05_sr05_00098acts:
+    f_max:
+    - '`guaranteed_coverage: Pfe9688'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 864.708 s
+  square15_tm004_rr05_sr05_00102acts:
+    f_max:
+    - '`guaranteed_coverage: P40a0f5'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 886.142 s
+  square15_tm004_rr05_sr05_00103acts:
+    f_max:
+    - '`guaranteed_coverage: P5bf777'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 910.988 s
+  square15_tm004_rr05_sr05_00107acts:
+    f_max:
+    - '`guaranteed_coverage: Paf3e65'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 938.983 s
+  square15_tm004_rr05_sr05_00108acts:
+    f_max:
+    - '`guaranteed_coverage: P82a4d7'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 966.226 s
+  square15_tm004_rr05_sr05_00112acts:
+    f_max:
+    - '`guaranteed_coverage: P5a11fa'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 991.133 s
+  square15_tm004_rr05_sr05_00113acts:
+    f_max:
+    - '`guaranteed_coverage: P0b1ae1'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1018.38 s
+  square15_tm004_rr05_sr05_00117acts:
+    f_max:
+    - '`guaranteed_coverage: P05dbea'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1043.28 s
+  square15_tm004_rr05_sr05_00118acts:
+    f_max:
+    - '`guaranteed_coverage: Pa0faba'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1068.94 s
+  square15_tm004_rr05_sr05_00122acts:
+    f_max:
+    - '`guaranteed_coverage: Pbfbf19'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1096.59 s
+  square15_tm004_rr05_sr05_00123acts:
+    f_max:
+    - '`guaranteed_coverage: P723a0d'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1110.19 s
+  square15_tm004_rr05_sr05_00124acts:
+    f_max:
+    - '`guaranteed_coverage: P949a6e'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1125.2 s
+  square15_tm004_rr05_sr05_00128acts:
+    f_max:
+    - '`guaranteed_coverage: Pc554b8'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1157.54 s
+  square15_tm004_rr05_sr05_00129acts:
+    f_max:
+    - '`guaranteed_coverage: P437bd7'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1184.78 s
+  square15_tm004_rr05_sr05_00133acts:
+    f_max:
+    - '`guaranteed_coverage: P3fed2a'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1209.69 s
+  square15_tm004_rr05_sr05_00134acts:
+    f_max:
+    - '`guaranteed_coverage: Pf9e403'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1236.95 s
+  square15_tm004_rr05_sr05_00138acts:
+    f_max:
+    - '`guaranteed_coverage: Ped0701'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1257.62 s
+  square15_tm004_rr05_sr05_00139acts:
+    f_max:
+    - '`guaranteed_coverage: P0fde2a'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1284.86 s
+  square15_tm004_rr05_sr05_00143acts:
+    f_max:
+    - '`guaranteed_coverage: P6ac4a0'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1309.77 s
+  square15_tm004_rr05_sr05_00144acts:
+    f_max:
+    - '`guaranteed_coverage: P7cec0c'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1337.01 s
+  square15_tm004_rr05_sr05_00148acts:
+    f_max:
+    - '`guaranteed_coverage: P757879'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1355.74 s
+  square15_tm004_rr05_sr05_00149acts:
+    f_max:
+    - '`guaranteed_coverage: P369d9e'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1382.98 s
+  square15_tm004_rr05_sr05_00153acts:
+    f_max:
+    - '`guaranteed_coverage: P8629c7'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1401.71 s
+  square15_tm004_rr05_sr05_00154acts:
+    f_max:
+    - '`guaranteed_coverage: Pd9a18a'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1428.95 s
+  square15_tm004_rr05_sr05_00158acts:
+    f_max:
+    - '`guaranteed_coverage: P66c563'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1453.86 s
+  square15_tm004_rr05_sr05_00159acts:
+    f_max:
+    - '`guaranteed_coverage: Pbf5ed5'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1481.1 s
+  square15_tm004_rr05_sr05_00163acts:
+    f_max:
+    - '`guaranteed_coverage: P0ecf78'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1506.01 s
+  square15_tm004_rr05_sr05_00164acts:
+    f_max:
+    - '`guaranteed_coverage: Pdb522c'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1530.86 s
+  square15_tm004_rr05_sr05_00168acts:
+    f_max:
+    - '`guaranteed_coverage: P7a8279'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1558.85 s
+  square15_tm004_rr05_sr05_00169acts:
+    f_max:
+    - '`guaranteed_coverage: P2d31fa'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1583.6 s
+  square15_tm004_rr05_sr05_00173acts:
+    f_max:
+    - '`guaranteed_coverage: P2d31fa'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1590.32 s
+  square15_tm004_rr05_sr05_00174acts:
+    f_max:
+    - '`guaranteed_coverage: Pb74237'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1616.68 s
+  square15_tm004_rr05_sr05_00178acts:
+    f_max:
+    - '`guaranteed_coverage: Pd3f328'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1639.3 s
+  square15_tm004_rr05_sr05_00179acts:
+    f_max:
+    - '`guaranteed_coverage: Pd05376'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1664.04 s
+  square15_tm004_rr05_sr05_00183acts:
+    f_max:
+    - '`guaranteed_coverage: P29e9ab'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1670.77 s
+  square15_tm004_rr05_sr05_00184acts:
+    f_max:
+    - '`guaranteed_coverage: Pa2fbb9'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1698.01 s
+  square15_tm004_rr05_sr05_00188acts:
+    f_max:
+    - '`guaranteed_coverage: P2923fc'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1716.74 s
+  square15_tm004_rr05_sr05_00189acts:
+    f_max:
+    - '`guaranteed_coverage: P042c4a'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1743.08 s
+  square15_tm004_rr05_sr05_00193acts:
+    f_max:
+    - '`guaranteed_coverage: P133b87'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1758.47 s
+  square15_tm004_rr05_sr05_00194acts:
+    f_max:
+    - '`guaranteed_coverage: Pec3c36'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1785.71 s
+  square15_tm004_rr05_sr05_00198acts:
+    f_max:
+    - '`guaranteed_coverage: P214983'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1810.62 s
+  square15_tm004_rr05_sr05_00199acts:
+    f_max:
+    - '`guaranteed_coverage: P4d5889'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1836.97 s
+  square15_tm004_rr05_sr05_00203acts:
+    f_max:
+    - '`guaranteed_coverage: Pddf815'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1859.59 s
+  square15_tm004_rr05_sr05_00204acts:
+    f_max:
+    - '`guaranteed_coverage: Pc10c85'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1886.83 s
+  square15_tm004_rr05_sr05_00208acts:
+    f_max:
+    - '`guaranteed_coverage: P1fa317'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1911.74 s
+  square15_tm004_rr05_sr05_00209acts:
+    f_max:
+    - '`guaranteed_coverage: P2c3834'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1938.98 s
+  square15_tm004_rr05_sr05_00213acts:
+    f_max:
+    - '`guaranteed_coverage: Pbb58a0'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1957.71 s
+  square15_tm004_rr05_sr05_00214acts:
+    f_max:
+    - '`guaranteed_coverage: Pea29dd'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 1983.7 s
+  square15_tm004_rr05_sr05_00218acts:
+    f_max:
+    - '`guaranteed_coverage: P330525'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2001.69 s
+  square15_tm004_rr05_sr05_00219acts:
+    f_max:
+    - '`guaranteed_coverage: Pce3c2d'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2015.29 s
+  square15_tm004_rr05_sr05_00220acts:
+    f_max:
+    - '`guaranteed_coverage: P3effd4'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2029.11 s
+  square15_tm004_rr05_sr05_00224acts:
+    f_max:
+    - '`guaranteed_coverage: P5539ad'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2036.95 s
+  square15_tm004_rr05_sr05_00225acts:
+    f_max:
+    - '`guaranteed_coverage: P494232'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2061.7 s
+  square15_tm004_rr05_sr05_00229acts:
+    f_max:
+    - '`guaranteed_coverage: Pde3083'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2068.42 s
+  square15_tm004_rr05_sr05_00230acts:
+    f_max:
+    - '`guaranteed_coverage: P67666d'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2095.67 s
+  square15_tm004_rr05_sr05_00234acts:
+    f_max:
+    - '`guaranteed_coverage: Pf2d79a'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2114.4 s
+  square15_tm004_rr05_sr05_00235acts:
+    f_max:
+    - '`guaranteed_coverage: P53fb02'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2141.66 s
+  square15_tm004_rr05_sr05_00239acts:
+    f_max:
+    - '`guaranteed_coverage: Pd9c5ea'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2164.8 s
+  square15_tm004_rr05_sr05_00240acts:
+    f_max:
+    - '`guaranteed_coverage: Pbfa857'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2192.05 s
+  square15_tm004_rr05_sr05_00244acts:
+    f_max:
+    - '`guaranteed_coverage: P70bbb1'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2216.95 s
+  square15_tm004_rr05_sr05_00245acts:
+    f_max:
+    - '`guaranteed_coverage: P353aa5'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2243.29 s
+  square15_tm004_rr05_sr05_00249acts:
+    f_max:
+    - '`guaranteed_coverage: Pbc3352'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2258.68 s
+  square15_tm004_rr05_sr05_00250acts:
+    f_max:
+    - '`guaranteed_coverage: P072edc'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2285.92 s
+  square15_tm004_rr05_sr05_00254acts:
+    f_max:
+    - '`guaranteed_coverage: Pb5cd87'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2304.65 s
+  square15_tm004_rr05_sr05_00255acts:
+    f_max:
+    - '`guaranteed_coverage: Pcfa67b'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2329.4 s
+  square15_tm004_rr05_sr05_00259acts:
+    f_max:
+    - '`guaranteed_coverage: Pcfa67b'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2336.12 s
+  square15_tm004_rr05_sr05_00260acts:
+    f_max:
+    - '`guaranteed_coverage: P913796'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2362.46 s
+  square15_tm004_rr05_sr05_00264acts:
+    f_max:
+    - '`guaranteed_coverage: P716a16'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2377.85 s
+  square15_tm004_rr05_sr05_00265acts:
+    f_max:
+    - '`guaranteed_coverage: Pda8e8b'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2405.09 s
+  square15_tm004_rr05_sr05_00269acts:
+    f_max:
+    - '`guaranteed_coverage: P7b1140'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2423.82 s
+  square15_tm004_rr05_sr05_00270acts:
+    f_max:
+    - '`guaranteed_coverage: Pb33303'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2450.58 s
+  square15_tm004_rr05_sr05_00274acts:
+    f_max:
+    - '`guaranteed_coverage: P9c004c'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2467.65 s
+  square15_tm004_rr05_sr05_00275acts:
+    f_max:
+    - '`guaranteed_coverage: P9c86da'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2494.9 s
+  square15_tm004_rr05_sr05_00279acts:
+    f_max:
+    - '`guaranteed_coverage: P003d0a'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2519.8 s
+  square15_tm004_rr05_sr05_00280acts:
+    f_max:
+    - '`guaranteed_coverage: Pee934a'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2547.05 s
+  square15_tm004_rr05_sr05_00284acts:
+    f_max:
+    - '`guaranteed_coverage: Pe58ab3'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2571.95 s
+  square15_tm004_rr05_sr05_00285acts:
+    f_max:
+    - '`guaranteed_coverage: P3c3cac'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2598.72 s
+  square15_tm004_rr05_sr05_00289acts:
+    f_max:
+    - '`guaranteed_coverage: P1ecc1f'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2624.27 s
+  square15_tm004_rr05_sr05_00290acts:
+    f_max:
+    - '`guaranteed_coverage: P4a9ff5'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2651.51 s
+  square15_tm004_rr05_sr05_00294acts:
+    f_max:
+    - '`guaranteed_coverage: P516829'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2670.24 s
+  square15_tm004_rr05_sr05_00295acts:
+    f_max:
+    - '`guaranteed_coverage: P636e1a'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2696.21 s
+  square15_tm004_rr05_sr05_00299acts:
+    f_max:
+    - '`guaranteed_coverage: P764e28'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2709.89 s
+  square15_tm004_rr05_sr05_00300acts:
+    f_max:
+    - '`guaranteed_coverage: P97712b'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2737.13 s
+  square15_tm004_rr05_sr05_00304acts:
+    f_max:
+    - '`guaranteed_coverage: P947532'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2762.04 s
+  square15_tm004_rr05_sr05_00305acts:
+    f_max:
+    - '`guaranteed_coverage: P85ab13'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2788.82 s
+  square15_tm004_rr05_sr05_00309acts:
+    f_max:
+    - '`guaranteed_coverage: Pdee384'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2810.48 s
+  square15_tm004_rr05_sr05_00310acts:
+    f_max:
+    - '`guaranteed_coverage: P0e59a2'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2837.72 s
+  square15_tm004_rr05_sr05_00314acts:
+    f_max:
+    - '`guaranteed_coverage: P36a839'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2862.63 s
+  square15_tm004_rr05_sr05_00315acts:
+    f_max:
+    - '`guaranteed_coverage: P6c7214'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2889.87 s
+  square15_tm004_rr05_sr05_00319acts:
+    f_max:
+    - '`guaranteed_coverage: Pea61c6'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2914.78 s
+  square15_tm004_rr05_sr05_00320acts:
+    f_max:
+    - '`guaranteed_coverage: Pec3d55'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2942.02 s
+  square15_tm004_rr05_sr05_00324acts:
+    f_max:
+    - '`guaranteed_coverage: Pde0544'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2960.75 s
+  square15_tm004_rr05_sr05_00325acts:
+    f_max:
+    - '`guaranteed_coverage: P01e1a2'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 2987.99 s
+  square15_tm004_rr05_sr05_00329acts:
+    f_max:
+    - '`guaranteed_coverage: P1e23ce'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3006.72 s
+  square15_tm004_rr05_sr05_00330acts:
+    f_max:
+    - '`guaranteed_coverage: P01e1a2'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3031.47 s
+  square15_tm004_rr05_sr05_00334acts:
+    f_max:
+    - '`guaranteed_coverage: P01e1a2'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3038.19 s
+  square15_tm004_rr05_sr05_00335acts:
+    f_max:
+    - '`guaranteed_coverage: P5ecb61'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3064.97 s
+  square15_tm004_rr05_sr05_00339acts:
+    f_max:
+    - '`guaranteed_coverage: P68ab17'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3086.64 s
+  square15_tm004_rr05_sr05_00340acts:
+    f_max:
+    - '`guaranteed_coverage: Pa580cc'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3111.38 s
+  square15_tm004_rr05_sr05_00344acts:
+    f_max:
+    - '`guaranteed_coverage: P0d3e11'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3118.11 s
+  square15_tm004_rr05_sr05_00345acts:
+    f_max:
+    - '`guaranteed_coverage: Pef8d74'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3131.71 s
+  square15_tm004_rr05_sr05_00346acts:
+    f_max:
+    - '`guaranteed_coverage: P31b373'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3140.37 s
+  square15_tm004_rr05_sr05_00350acts:
+    f_max:
+    - '`guaranteed_coverage: Pe4d14a'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3157.44 s
+  square15_tm004_rr05_sr05_00351acts:
+    f_max:
+    - '`guaranteed_coverage: P1912c5'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3171.04 s
+  square15_tm004_rr05_sr05_00352acts:
+    f_max:
+    - '`guaranteed_coverage: P4235a1'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3184.38 s
+  square15_tm004_rr05_sr05_00356acts:
+    f_max:
+    - '`guaranteed_coverage: P2cdb6c'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3198.01 s
+  square15_tm004_rr05_sr05_00357acts:
+    f_max:
+    - '`guaranteed_coverage: P31d545'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3222.75 s
+  square15_tm004_rr05_sr05_00361acts:
+    f_max:
+    - '`guaranteed_coverage: Pa05564'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3229.48 s
+  square15_tm004_rr05_sr05_00362acts:
+    f_max:
+    - '`guaranteed_coverage: P801026'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3243.08 s
+  square15_tm004_rr05_sr05_00363acts:
+    f_max:
+    - '`guaranteed_coverage: P4d408b'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3255.29 s
+  square15_tm004_rr05_sr05_00367acts:
+    f_max:
+    - '`guaranteed_coverage: P0a6080'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3266.65 s
+  square15_tm004_rr05_sr05_00368acts:
+    f_max:
+    - '`guaranteed_coverage: Pd2d3b3'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3293.89 s
+  square15_tm004_rr05_sr05_00372acts:
+    f_max:
+    - '`guaranteed_coverage: P9a9e2b'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3318.8 s
+  square15_tm004_rr05_sr05_00373acts:
+    f_max:
+    - '`guaranteed_coverage: Pae8b94'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3344.77 s
+  square15_tm004_rr05_sr05_00377acts:
+    f_max:
+    - '`guaranteed_coverage: P50df0d'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3371.7 s
+  square15_tm004_rr05_sr05_00378acts:
+    f_max:
+    - '`guaranteed_coverage: Pb01c72'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3398.94 s
+  square15_tm004_rr05_sr05_00382acts:
+    f_max:
+    - '`guaranteed_coverage: P2c7137'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3423.85 s
+  square15_tm004_rr05_sr05_00383acts:
+    f_max:
+    - '`guaranteed_coverage: P25eea0'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3450.63 s
+  square15_tm004_rr05_sr05_00387acts:
+    f_max:
+    - '`guaranteed_coverage: Pce85ad'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3472.3 s
+  square15_tm004_rr05_sr05_00388acts:
+    f_max:
+    - '`guaranteed_coverage: P6556f3'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3485.9 s
+  square15_tm004_rr05_sr05_00389acts:
+    f_max:
+    - '`guaranteed_coverage: Pdaffe0'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3496.45 s
+  square15_tm004_rr05_sr05_00393acts:
+    f_max:
+    - '`guaranteed_coverage: P068e8b'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3502.99 s
+  square15_tm004_rr05_sr05_00394acts:
+    f_max:
+    - '`guaranteed_coverage: P068e8b'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3527.74 s
+  square15_tm004_rr05_sr05_00398acts:
+    f_max:
+    - '`guaranteed_coverage: P068e8b'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3534.46 s
+  square15_tm004_rr05_sr05_00399acts:
+    f_max:
+    - '`guaranteed_coverage: P6eefad'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3560.13 s
+  square15_tm004_rr05_sr05_00403acts:
+    f_max:
+    - '`guaranteed_coverage: P05acad'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3584.58 s
+  square15_tm004_rr05_sr05_00404acts:
+    f_max:
+    - '`guaranteed_coverage: P241115'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3609.33 s
+  square15_tm004_rr05_sr05_00408acts:
+    f_max:
+    - '`guaranteed_coverage: P595cde'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3616.05 s
+  square15_tm004_rr05_sr05_00409acts:
+    f_max:
+    - '`guaranteed_coverage: P460139'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3643.29 s
+  square15_tm004_rr05_sr05_00413acts:
+    f_max:
+    - '`guaranteed_coverage: P10bda3'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3668.2 s
+  square15_tm004_rr05_sr05_00414acts:
+    f_max:
+    - '`guaranteed_coverage: P343221'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3693.85 s
+  square15_tm004_rr05_sr05_00418acts:
+    f_max:
+    - '`guaranteed_coverage: P83bcab'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3705.77 s
+  square15_tm004_rr05_sr05_00419acts:
+    f_max:
+    - '`guaranteed_coverage: Pe7bb1b'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3733.01 s
+  square15_tm004_rr05_sr05_00423acts:
+    f_max:
+    - '`guaranteed_coverage: P5e20df'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3751.74 s
+  square15_tm004_rr05_sr05_00424acts:
+    f_max:
+    - '`guaranteed_coverage: P55625d'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3777.73 s
+  square15_tm004_rr05_sr05_00428acts:
+    f_max:
+    - '`guaranteed_coverage: Pe95ef1'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3801.28 s
+  square15_tm004_rr05_sr05_00429acts:
+    f_max:
+    - '`guaranteed_coverage: P9c42c1'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3828.52 s
+  square15_tm004_rr05_sr05_00433acts:
+    f_max:
+    - '`guaranteed_coverage: P01e9ce'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3853.42 s
+  square15_tm004_rr05_sr05_00434acts:
+    f_max:
+    - '`guaranteed_coverage: Pd075ae'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3878.17 s
+  square15_tm004_rr05_sr05_00438acts:
+    f_max:
+    - '`guaranteed_coverage: Pd075ae'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3884.9 s
+  square15_tm004_rr05_sr05_00439acts:
+    f_max:
+    - '`guaranteed_coverage: Pb1f6b2'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3910.88 s
+  square15_tm004_rr05_sr05_00443acts:
+    f_max:
+    - '`guaranteed_coverage: P839d9f'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3934.43 s
+  square15_tm004_rr05_sr05_00444acts:
+    f_max:
+    - '`guaranteed_coverage: Pff9907'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3959.17 s
+  square15_tm004_rr05_sr05_00448acts:
+    f_max:
+    - '`guaranteed_coverage: P632b24'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3965.9 s
+  square15_tm004_rr05_sr05_00449acts:
+    f_max:
+    - '`guaranteed_coverage: P8ede14'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3979.5 s
+  square15_tm004_rr05_sr05_00450acts:
+    f_max:
+    - '`guaranteed_coverage: P4b74e6'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 3989.44 s
+  square15_tm004_rr05_sr05_00454acts:
+    f_max:
+    - '`guaranteed_coverage: P24d212'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4011.65 s
+  square15_tm004_rr05_sr05_00455acts:
+    f_max:
+    - '`guaranteed_coverage: Pff8064'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4025.25 s
+  square15_tm004_rr05_sr05_00456acts:
+    f_max:
+    - '`guaranteed_coverage: P848840'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4039.68 s
+  square15_tm004_rr05_sr05_00460acts:
+    f_max:
+    - '`guaranteed_coverage: Pba2316'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4043.24 s
+  square15_tm004_rr05_sr05_00461acts:
+    f_max:
+    - '`guaranteed_coverage: P949830'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4067.99 s
+  square15_tm004_rr05_sr05_00465acts:
+    f_max:
+    - '`guaranteed_coverage: P765652'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4074.71 s
+  square15_tm004_rr05_sr05_00466acts:
+    f_max:
+    - '`guaranteed_coverage: P2361e0'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4100.38 s
+  square15_tm004_rr05_sr05_00470acts:
+    f_max:
+    - '`guaranteed_coverage: Pb2bed4'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4124.83 s
+  square15_tm004_rr05_sr05_00471acts:
+    f_max:
+    - '`guaranteed_coverage: P5850b7'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4152.08 s
+  square15_tm004_rr05_sr05_00475acts:
+    f_max:
+    - '`guaranteed_coverage: Pa61968'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4176.98 s
+  square15_tm004_rr05_sr05_00476acts:
+    f_max:
+    - '`guaranteed_coverage: P510164'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4201.73 s
+  square15_tm004_rr05_sr05_00480acts:
+    f_max:
+    - '`guaranteed_coverage: P510164'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4208.45 s
+  square15_tm004_rr05_sr05_00481acts:
+    f_max:
+    - '`guaranteed_coverage: P510164'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4233.85 s
+  square15_tm004_rr05_sr05_00485acts:
+    f_max:
+    - '`guaranteed_coverage: P387123'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4248.29 s
+  square15_tm004_rr05_sr05_00486acts:
+    f_max:
+    - '`guaranteed_coverage: Pad63b7'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4275.54 s
+  square15_tm004_rr05_sr05_00490acts:
+    f_max:
+    - '`guaranteed_coverage: P62d497'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4300.44 s
+  square15_tm004_rr05_sr05_00491acts:
+    f_max:
+    - '`guaranteed_coverage: P6089ea'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4327.69 s
+  square15_tm004_rr05_sr05_00495acts:
+    f_max:
+    - '`guaranteed_coverage: P9d40e4'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4352.59 s
+  square15_tm004_rr05_sr05_00496acts:
+    f_max:
+    - '`guaranteed_coverage: P9f6e4f'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4378.95 s
+  square15_tm004_rr05_sr05_00500acts:
+    f_max:
+    - '`guaranteed_coverage: Pa77d1b'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4401.57 s
+  square15_tm004_rr05_sr05_00501acts:
+    f_max:
+    - '`guaranteed_coverage: P4d3d34'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4426.31 s
+  square15_tm004_rr05_sr05_00505acts:
+    f_max:
+    - '`guaranteed_coverage: P4d3d34'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4433.04 s
+  square15_tm004_rr05_sr05_00506acts:
+    f_max:
+    - '`guaranteed_coverage: P2c344e'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4459.8 s
+  square15_tm004_rr05_sr05_00510acts:
+    f_max:
+    - '`guaranteed_coverage: Pbc2a03'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4476.87 s
+  square15_tm004_rr05_sr05_00511acts:
+    f_max:
+    - '`guaranteed_coverage: P1a4506'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4490.47 s
+  square15_tm004_rr05_sr05_00512acts:
+    f_max:
+    - '`guaranteed_coverage: Pf6b0b5'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4504.03 s
+  square15_tm004_rr05_sr05_00516acts:
+    f_max:
+    - '`guaranteed_coverage: P557c1a'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4514.34 s
+  square15_tm004_rr05_sr05_00517acts:
+    f_max:
+    - '`guaranteed_coverage: Pda10b3'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4539.09 s
+  square15_tm004_rr05_sr05_00521acts:
+    f_max:
+    - '`guaranteed_coverage: P771d47'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4545.81 s
+  square15_tm004_rr05_sr05_00522acts:
+    f_max:
+    - '`guaranteed_coverage: P10dd98'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4573.06 s
+  square15_tm004_rr05_sr05_00526acts:
+    f_max:
+    - '`guaranteed_coverage: P4e7d7c'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4597.96 s
+  square15_tm004_rr05_sr05_00527acts:
+    f_max:
+    - '`guaranteed_coverage: Pd20e88'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4623.63 s
+  square15_tm004_rr05_sr05_00531acts:
+    f_max:
+    - '`guaranteed_coverage: P741ae2'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4648.09 s
+  square15_tm004_rr05_sr05_00532acts:
+    f_max:
+    - '`guaranteed_coverage: P392f29'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4675.33 s
+  square15_tm004_rr05_sr05_00536acts:
+    f_max:
+    - '`guaranteed_coverage: Pb5646a'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4694.06 s
+  square15_tm004_rr05_sr05_00537acts:
+    f_max:
+    - '`guaranteed_coverage: P220bc8'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4721.3 s
+  square15_tm004_rr05_sr05_00541acts:
+    f_max:
+    - '`guaranteed_coverage: P4f0bbd'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4746.21 s
+  square15_tm004_rr05_sr05_00542acts:
+    f_max:
+    - '`guaranteed_coverage: P246d07'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4773.45 s
+  square15_tm004_rr05_sr05_00546acts:
+    f_max:
+    - '`guaranteed_coverage: P2cbdd5'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4792.18 s
+  square15_tm004_rr05_sr05_00547acts:
+    f_max:
+    - '`guaranteed_coverage: P8e37a7'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4817.35 s
+  square15_tm004_rr05_sr05_00551acts:
+    f_max:
+    - '`guaranteed_coverage: P318bcf'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4829.96 s
+  square15_tm004_rr05_sr05_00552acts:
+    f_max:
+    - '`guaranteed_coverage: P2c1151'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4857.2 s
+  square15_tm004_rr05_sr05_00556acts:
+    f_max:
+    - '`guaranteed_coverage: Pa11a69'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4875.93 s
+  square15_tm004_rr05_sr05_00557acts:
+    f_max:
+    - '`guaranteed_coverage: P61ab23'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4889.53 s
+  square15_tm004_rr05_sr05_00558acts:
+    f_max:
+    - '`guaranteed_coverage: Pfdee2e'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4900.96 s
+  square15_tm004_rr05_sr05_00562acts:
+    f_max:
+    - '`guaranteed_coverage: P9688c3'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4917.19 s
+  square15_tm004_rr05_sr05_00563acts:
+    f_max:
+    - '`guaranteed_coverage: P119abf'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4944.43 s
+  square15_tm004_rr05_sr05_00567acts:
+    f_max:
+    - '`guaranteed_coverage: P86d53d'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4969.34 s
+  square15_tm004_rr05_sr05_00568acts:
+    f_max:
+    - '`guaranteed_coverage: Pdbe878'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 4994.51 s
+  square15_tm004_rr05_sr05_00572acts:
+    f_max:
+    - '`guaranteed_coverage: P6081ce'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 5007.12 s
+  square15_tm004_rr05_sr05_00573acts:
+    f_max:
+    - '`guaranteed_coverage: P86882c'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 5031.87 s
+  square15_tm004_rr05_sr05_00577acts:
+    f_max:
+    - '`guaranteed_coverage: Pb8f4e3'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 5038.59 s
+  square15_tm004_rr05_sr05_00578acts:
+    f_max:
+    - '`guaranteed_coverage: Pc867f4'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 5052.19 s
+  square15_tm004_rr05_sr05_00579acts:
+    f_max:
+    - '`guaranteed_coverage: Peec2b4'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 5067.15 s
+  square15_tm004_rr05_sr05_00583acts:
+    f_max:
+    - '`guaranteed_coverage: P36047e'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 5094.53 s
+  square15_tm004_rr05_sr05_00584acts:
+    f_max:
+    - '`guaranteed_coverage: Pbd36ce'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 5108.13 s
+  square15_tm004_rr05_sr05_00585acts:
+    f_max:
+    - '`guaranteed_coverage: Pc82041'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 5116.82 s
+  square15_tm004_rr05_sr05_00589acts:
+    f_max:
+    - '`guaranteed_coverage: Pbc8cbc'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 5141.96 s
+  square15_tm004_rr05_sr05_00590acts:
+    f_max:
+    - '`guaranteed_coverage: Pc245f6'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 5166.71 s
+  square15_tm004_rr05_sr05_00594acts:
+    f_max:
+    - '`guaranteed_coverage: Pc77ea2'
+    - 0.04 rad
+    - '`maps:  map_square'
+    r_min:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    - 5173.43 s

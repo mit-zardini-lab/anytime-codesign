@@ -11,5 +11,5 @@ dp {
   requires execution_time [s]
 
   # one can choose to write the details of each implementation, i.e. the results of executing a certain algorithm with specific parameters, into an entry in the yaml file.
-  implemented-by yaml resource("coverage_algorithm_catalogues/square15_thetamax004_robotradius05_sensingradius05_catalogue.yaml")
+  implemented-by yaml resource("coverage_algorithm_catalogues/square15_tm004_rr05_sr05_catalogue.yaml")
 }
