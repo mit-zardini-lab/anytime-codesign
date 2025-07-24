@@ -8,11 +8,11 @@ mcdp {
   requires angular_actuation_error_budget [rad]
   
   # Define constants
-  cost_physical_rad = 5
-  cost_sensoring_radius = 8
-  cost_speed = 7
+  cost_physical_rad = 5 1/m
+  cost_sensoring_radius = 8 1/m
+  cost_speed = 7 s/m
   
-  provided physical_radius * m_inv + provided sensoring_radius * cost_sensoring_radius + provided speed * cost_speed <= 3
+  provided physical_radius * cost_physical_rad + provided sensoring_radius * cost_sensoring_radius + provided speed * cost_speed <= 3
 
   # one line represents an implementation, i.e., a specific robot model
 
