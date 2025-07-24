@@ -8,9 +8,9 @@ mcdp {
   requires angular_actuation_error_budget [rad]
   
   # Define constants
-  cost_physical_rad = 5 1/m
-  cost_sensoring_radius = 8 1/m
-  cost_speed = 7 s/m
+  cost_physical_rad = 5 USD/m
+  cost_sensoring_radius = 8 USD/m
+  cost_speed = 7 USD *s/m
   
   provided physical_radius * cost_physical_rad + provided sensoring_radius * cost_sensoring_radius + provided speed * cost_speed <= 3
 
