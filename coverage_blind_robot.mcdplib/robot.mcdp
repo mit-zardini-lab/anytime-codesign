@@ -10,10 +10,9 @@ mcdp {
   # Define constants
   cost_physical_rad = 5
   cost_sensoring_radius = 8
-  cost_speed = 2
-  m_inv = 1 1/m
+  cost_speed = 7
   
-  provided physical_radius * m_inv <= 3
+  provided physical_radius * m_inv + provided sensoring_radius * cost_sensoring_radius + provided speed * cost_speed <= 3
 
   # one line represents an implementation, i.e., a specific robot model
 
