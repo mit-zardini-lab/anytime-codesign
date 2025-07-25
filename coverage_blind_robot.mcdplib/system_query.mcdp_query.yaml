@@ -5,11 +5,11 @@ model: '`system'
 query:
   query_type: FixFunMinRes
   min_f:
-    covered_set: '`guaranteed_coverage: P833347' # This is the way to refer to an element in the self-defined poset.
-    map: '`maps: map_square'
+    covered_set: '`guaranteed_coverage: P7d4ad9' # This is the way to refer to an element in the self-defined poset.
+    map: '`maps: map_square15'
   max_r: # The solver needs an upper bound for the resources. If the solver cannot find a solution within the given upper bound, it will return no solution as if it's infeasible to satisfy the functionality.
-    total_cost: 1000 USD
-    total_execution_time: 10000 s
+    total_cost: 10000 USD
+    total_execution_time: 100000 s
   optimize_for: # One can choose to optimize part of the resources.
     - total_cost
     - total_execution_time

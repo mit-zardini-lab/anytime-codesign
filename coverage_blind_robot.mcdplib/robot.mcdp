@@ -8,8 +8,6 @@ catalog {
 
   0.5 m, 0.5 m, 0.5 m/s <--| robot_0 |--> 60.00 USD, 0.02 rad
   1.0 m, 1.0 m, 0.5 m/s <--| robot_1 |--> 110.00 USD, 0.02 rad
-  1.5 m, 1.5 m, 0.5 m/s <--| robot_2 |--> 160.00 USD, 0.02 rad
-  0.5 m, 0.5 m, 0.5 m/s <--| robot_3 |--> 40.00 USD, 0.04 rad
-  1.0 m, 1.0 m, 0.5 m/s <--| robot_4 |--> 90.00 USD, 0.04 rad
-  1.5 m, 1.5 m, 0.5 m/s <--| robot_5 |--> 140.00 USD, 0.04 rad
+  0.5 m, 0.5 m, 0.5 m/s <--| robot_2 |--> 40.00 USD, 0.04 rad
+  1.0 m, 1.0 m, 0.5 m/s <--| robot_3 |--> 90.00 USD, 0.04 rad
 }
