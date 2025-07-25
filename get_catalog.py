@@ -4,7 +4,7 @@ theta_max = ['0.02','0.04']
 radius = ['0.5', '1.0', '1.5']
 
 lines = []
-lines.append("mcdp {")
+lines.append("catalog {")
 lines.append("  provides physical_radius [m]")
 lines.append("  provides sensoring_radius [m]")
 lines.append("  provides speed [m/s]")

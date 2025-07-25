@@ -1,4 +1,4 @@
-mcdp {
+catalog {
   provides physical_radius [m]
   provides sensoring_radius [m]
   provides speed [m/s]
