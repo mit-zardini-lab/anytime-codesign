@@ -1,26 +1,15 @@
 mcdp {
-  # Example of a robot model
   provides physical_radius [m]
   provides sensoring_radius [m]
   provides speed [m/s]
 
   requires cost [USD]
   requires angular_actuation_error_budget [rad]
-  
-  # Define constants
-  cost_physical_rad = 8 USD/m
-  cost_sensoring_radius = 6 USD/m
-  cost_speed = 6 USD*s/m
-  cost2rad = rad/USD
-  
-  total_cost = provided physical_radius * cost_physical_rad + provided sensoring_radius * cost_sensoring_radius + provided speed * cost_speed
-  total_cost <= required cost
-  required angular_actuation_error_budget >= total_cost * cost2rad
 
-  # one line represents an implementation, i.e., a specific robot model
-
-  # this robot_1 provides a physical radius of 0.2 m, a sensoring radius of 0.21 m, a speed of 0.1 m/s; requires cost of 10 USD, and an angular actuation error budget of 0.01 deg.
-  # this is another way to generate a catalogue, only practical when one does not have too many entries
-  # 0.5 m, 0.5 m, 0.5 m/s <--| robot_1 |--> 10 USD, 0.01 deg
-  
+  0.5 m, 0.5 m, 0.5 m/s <--| robot_0 |--> 60.00 USD, 0.02 rad
+  1.0 m, 1.0 m, 0.5 m/s <--| robot_1 |--> 110.00 USD, 0.02 rad
+  1.5 m, 1.5 m, 0.5 m/s <--| robot_2 |--> 160.00 USD, 0.02 rad
+  0.5 m, 0.5 m, 0.5 m/s <--| robot_3 |--> 40.00 USD, 0.04 rad
+  1.0 m, 1.0 m, 0.5 m/s <--| robot_4 |--> 90.00 USD, 0.04 rad
+  1.5 m, 1.5 m, 0.5 m/s <--| robot_5 |--> 140.00 USD, 0.04 rad
 }
