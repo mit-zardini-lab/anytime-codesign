@@ -1,7 +1,7 @@
 import itertools
 
-theta_max = ['0.02','0.04']
-radius = ['0.5', '1.0']
+theta_max = ['0.01','0.02','0.03','0.04']
+radius = ['0.5', '1.0', '1.5']
 
 lines = []
 lines.append("catalog {")

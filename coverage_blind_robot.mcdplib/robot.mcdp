@@ -6,8 +6,16 @@ catalog {
   requires cost [USD]
   requires angular_actuation_error_budget [rad]
 
-  0.5 m, 0.5 m, 0.5 m/s <--| robot_0 |--> 60.00 USD, 0.02 rad
-  1.0 m, 1.0 m, 0.5 m/s <--| robot_1 |--> 110.00 USD, 0.02 rad
-  0.5 m, 0.5 m, 0.5 m/s <--| robot_2 |--> 40.00 USD, 0.04 rad
-  1.0 m, 1.0 m, 0.5 m/s <--| robot_3 |--> 90.00 USD, 0.04 rad
+  0.5 m, 0.5 m, 0.5 m/s <--| robot_0 |--> 70.00 USD, 0.01 rad
+  1.0 m, 1.0 m, 0.5 m/s <--| robot_1 |--> 120.00 USD, 0.01 rad
+  1.5 m, 1.5 m, 0.5 m/s <--| robot_2 |--> 170.00 USD, 0.01 rad
+  0.5 m, 0.5 m, 0.5 m/s <--| robot_3 |--> 60.00 USD, 0.02 rad
+  1.0 m, 1.0 m, 0.5 m/s <--| robot_4 |--> 110.00 USD, 0.02 rad
+  1.5 m, 1.5 m, 0.5 m/s <--| robot_5 |--> 160.00 USD, 0.02 rad
+  0.5 m, 0.5 m, 0.5 m/s <--| robot_6 |--> 50.00 USD, 0.03 rad
+  1.0 m, 1.0 m, 0.5 m/s <--| robot_7 |--> 100.00 USD, 0.03 rad
+  1.5 m, 1.5 m, 0.5 m/s <--| robot_8 |--> 150.00 USD, 0.03 rad
+  0.5 m, 0.5 m, 0.5 m/s <--| robot_9 |--> 40.00 USD, 0.04 rad
+  1.0 m, 1.0 m, 0.5 m/s <--| robot_10 |--> 90.00 USD, 0.04 rad
+  1.5 m, 1.5 m, 0.5 m/s <--| robot_11 |--> 140.00 USD, 0.04 rad
 }
