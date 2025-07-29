@@ -38,4 +38,13 @@ That is, the correct implementations are:
 * `⟨60 USD,24.6716 s⟩`: `robot_3`
 * `⟨70 USD,24.6679 s⟩`: `robot_0`
 
-We think that this is related to a bug in the mcdp solver.
+We think that this is related to a bug in the mcdp solver. Interestingly, going back in the history of docker images, we discovered the following:
+
+* `20250715`: bug still there
+* `20250708`: bug still there
+* `20250622`: bug still there
+* `20250419`: bug still there
+* `20241204`: bug still there
+* `20241106`: no bug
+
+So it seems the bug was introduced from version `20241106` to version `20241204`. We recall a discussion with Gioele, in which he mentioned that around late 2024 (circa 2024-10 to 2024-11), a bug related to displaying the correct implementation for the Ferrari project has been fixed - maybe the bug was introduced during that update.
