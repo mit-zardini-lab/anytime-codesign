@@ -1,0 +1,104 @@
+F:
+- m
+- m
+- m/s
+R:
+- USD
+- rad
+implementations:
+  robot_0:
+    f_max:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    r_min:
+    - 70.00 USD
+    - 0.01 rad
+  robot_1:
+    f_max:
+    - 1.0 m
+    - 1.0 m
+    - 0.5 m/s
+    r_min:
+    - 120.00 USD
+    - 0.01 rad
+  robot_2:
+    f_max:
+    - 1.5 m
+    - 1.5 m
+    - 0.5 m/s
+    r_min:
+    - 170.00 USD
+    - 0.01 rad
+  robot_3:
+    f_max:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    r_min:
+    - 60.00 USD
+    - 0.02 rad
+  robot_4:
+    f_max:
+    - 1.0 m
+    - 1.0 m
+    - 0.5 m/s
+    r_min:
+    - 110.00 USD
+    - 0.02 rad
+  robot_5:
+    f_max:
+    - 1.5 m
+    - 1.5 m
+    - 0.5 m/s
+    r_min:
+    - 160.00 USD
+    - 0.02 rad
+  robot_6:
+    f_max:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    r_min:
+    - 50.00 USD
+    - 0.03 rad
+  robot_7:
+    f_max:
+    - 1.0 m
+    - 1.0 m
+    - 0.5 m/s
+    r_min:
+    - 100.00 USD
+    - 0.03 rad
+  robot_8:
+    f_max:
+    - 1.5 m
+    - 1.5 m
+    - 0.5 m/s
+    r_min:
+    - 150.00 USD
+    - 0.03 rad
+  robot_9:
+    f_max:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    r_min:
+    - 40.00 USD
+    - 0.04 rad
+  robot_10:
+    f_max:
+    - 1.0 m
+    - 1.0 m
+    - 0.5 m/s
+    r_min:
+    - 90.00 USD
+    - 0.04 rad
+  robot_11:
+    f_max:
+    - 1.5 m
+    - 1.5 m
+    - 0.5 m/s
+    r_min:
+    - 140.00 USD
+    - 0.04 rad

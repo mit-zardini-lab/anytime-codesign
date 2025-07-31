@@ -9,7 +9,8 @@ mcdp-solve-query system_query --nocache --imp
 we get the following Pareto front: `↑{⟨40 USD,1390.97 s⟩, ⟨60 USD,24.6716 s⟩, ⟨70 USD,24.6679 s⟩}`, which is correct. However, looking at the implementations realizing each point on the Pareto front, we see that each point is realized by `robot_0`, which is impossible, as the robots available (`robot.mcdp`) look like this:
 
 ```plaintext
-catalog {
+# robot.mcdp
+dp {
   provides physical_radius [m]
   provides sensoring_radius [m]
   provides speed [m/s]
@@ -17,19 +18,116 @@ catalog {
   requires cost [USD]
   requires angular_actuation_error_budget [rad]
 
-  0.5 m, 0.5 m, 0.5 m/s <--| robot_0 |--> 70.00 USD, 0.01 rad
-  1.0 m, 1.0 m, 0.5 m/s <--| robot_1 |--> 120.00 USD, 0.01 rad
-  1.5 m, 1.5 m, 0.5 m/s <--| robot_2 |--> 170.00 USD, 0.01 rad
-  0.5 m, 0.5 m, 0.5 m/s <--| robot_3 |--> 60.00 USD, 0.02 rad
-  1.0 m, 1.0 m, 0.5 m/s <--| robot_4 |--> 110.00 USD, 0.02 rad
-  1.5 m, 1.5 m, 0.5 m/s <--| robot_5 |--> 160.00 USD, 0.02 rad
-  0.5 m, 0.5 m, 0.5 m/s <--| robot_6 |--> 50.00 USD, 0.03 rad
-  1.0 m, 1.0 m, 0.5 m/s <--| robot_7 |--> 100.00 USD, 0.03 rad
-  1.5 m, 1.5 m, 0.5 m/s <--| robot_8 |--> 150.00 USD, 0.03 rad
-  0.5 m, 0.5 m, 0.5 m/s <--| robot_9 |--> 40.00 USD, 0.04 rad
-  1.0 m, 1.0 m, 0.5 m/s <--| robot_10 |--> 90.00 USD, 0.04 rad
-  1.5 m, 1.5 m, 0.5 m/s <--| robot_11 |--> 140.00 USD, 0.04 rad
+  implemented-by yaml resource("robot_catalog.yaml")
 }
+```
+
+```yaml
+# robot_catalog.yaml
+F:
+- m
+- m
+- m/s
+R:
+- USD
+- rad
+implementations:
+  robot_0:
+    f_max:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    r_min:
+    - 70.00 USD
+    - 0.01 rad
+  robot_1:
+    f_max:
+    - 1.0 m
+    - 1.0 m
+    - 0.5 m/s
+    r_min:
+    - 120.00 USD
+    - 0.01 rad
+  robot_2:
+    f_max:
+    - 1.5 m
+    - 1.5 m
+    - 0.5 m/s
+    r_min:
+    - 170.00 USD
+    - 0.01 rad
+  robot_3:
+    f_max:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    r_min:
+    - 60.00 USD
+    - 0.02 rad
+  robot_4:
+    f_max:
+    - 1.0 m
+    - 1.0 m
+    - 0.5 m/s
+    r_min:
+    - 110.00 USD
+    - 0.02 rad
+  robot_5:
+    f_max:
+    - 1.5 m
+    - 1.5 m
+    - 0.5 m/s
+    r_min:
+    - 160.00 USD
+    - 0.02 rad
+  robot_6:
+    f_max:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    r_min:
+    - 50.00 USD
+    - 0.03 rad
+  robot_7:
+    f_max:
+    - 1.0 m
+    - 1.0 m
+    - 0.5 m/s
+    r_min:
+    - 100.00 USD
+    - 0.03 rad
+  robot_8:
+    f_max:
+    - 1.5 m
+    - 1.5 m
+    - 0.5 m/s
+    r_min:
+    - 150.00 USD
+    - 0.03 rad
+  robot_9:
+    f_max:
+    - 0.5 m
+    - 0.5 m
+    - 0.5 m/s
+    r_min:
+    - 40.00 USD
+    - 0.04 rad
+  robot_10:
+    f_max:
+    - 1.0 m
+    - 1.0 m
+    - 0.5 m/s
+    r_min:
+    - 90.00 USD
+    - 0.04 rad
+  robot_11:
+    f_max:
+    - 1.5 m
+    - 1.5 m
+    - 0.5 m/s
+    r_min:
+    - 140.00 USD
+    - 0.04 rad
 ```
 
 That is, the correct implementations are:
