@@ -2,6 +2,7 @@ mcdp {
   # Example of composing sub-dps into another dp
   provides covered_set [`guaranteed_coverage]
   provides map [`maps]
+  provides covered_area [m^2]
 
   requires total_cost [USD]
   requires total_execution_time [s]
@@ -12,6 +13,7 @@ mcdp {
   # connecting the overall coverage with the coverage of the algorithm
   # we can at most cover what the algorithm covers
   provided covered_set <= covered_set provided by coverage_algorithm_dp
+  provided covered_area
   provided map <= map provided by coverage_algorithm_dp
   # the total cost in this simple example is just the cost of the robot
   required total_cost >= cost required by robot_dp
