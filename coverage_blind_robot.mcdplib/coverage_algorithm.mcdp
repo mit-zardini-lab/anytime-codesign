@@ -1,7 +1,8 @@
-dp { 
+dp {
   provides covered_set [`guaranteed_coverage] # functionality of the algorithm. One instance
   provides angular_actuation_error_budget [rad]
   provides map [`maps]
+  provides covered_area [m^2]
 
   requires physical_radius_of_robot [m]
   requires sensoring_radius_of_robot [m]
