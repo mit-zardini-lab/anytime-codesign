@@ -9,96 +9,1152 @@ implementations:
   robot_0:
     f_max:
     - 0.5 m
-    - 0.5 m
+    - 1.0 m
     - 0.5 m/s
     r_min:
-    - 70.00 USD
+    - 100.00 USD
     - 0.01 rad
   robot_1:
     f_max:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    r_min:
+    - 105.00 USD
+    - 0.01 rad
+  robot_2:
+    f_max:
+    - 0.5 m
+    - 1.0 m
+    - 1.5 m/s
+    r_min:
+    - 110.00 USD
+    - 0.01 rad
+  robot_3:
+    f_max:
+    - 0.5 m
+    - 1.5 m
+    - 0.5 m/s
+    r_min:
+    - 125.00 USD
+    - 0.01 rad
+  robot_4:
+    f_max:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    r_min:
+    - 130.00 USD
+    - 0.01 rad
+  robot_5:
+    f_max:
+    - 0.5 m
+    - 1.5 m
+    - 1.5 m/s
+    r_min:
+    - 135.00 USD
+    - 0.01 rad
+  robot_6:
+    f_max:
+    - 0.5 m
+    - 2.0 m
+    - 0.5 m/s
+    r_min:
+    - 150.00 USD
+    - 0.01 rad
+  robot_7:
+    f_max:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    r_min:
+    - 155.00 USD
+    - 0.01 rad
+  robot_8:
+    f_max:
+    - 0.5 m
+    - 2.0 m
+    - 1.5 m/s
+    r_min:
+    - 160.00 USD
+    - 0.01 rad
+  robot_9:
+    f_max:
+    - 0.5 m
+    - 3.0 m
+    - 0.5 m/s
+    r_min:
+    - 200.00 USD
+    - 0.01 rad
+  robot_10:
+    f_max:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    r_min:
+    - 205.00 USD
+    - 0.01 rad
+  robot_11:
+    f_max:
+    - 0.5 m
+    - 3.0 m
+    - 1.5 m/s
+    r_min:
+    - 210.00 USD
+    - 0.01 rad
+  robot_12:
+    f_max:
     - 1.0 m
     - 1.0 m
     - 0.5 m/s
     r_min:
-    - 120.00 USD
+    - 145.00 USD
     - 0.01 rad
-  robot_2:
+  robot_13:
     f_max:
-    - 1.5 m
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    r_min:
+    - 140.00 USD
+    - 0.01 rad
+  robot_14:
+    f_max:
+    - 1.0 m
+    - 1.0 m
+    - 1.5 m/s
+    r_min:
+    - 165.00 USD
+    - 0.01 rad
+  robot_15:
+    f_max:
+    - 1.0 m
     - 1.5 m
     - 0.5 m/s
     r_min:
     - 170.00 USD
     - 0.01 rad
-  robot_3:
-    f_max:
-    - 0.5 m
-    - 0.5 m
-    - 0.5 m/s
-    r_min:
-    - 60.00 USD
-    - 0.02 rad
-  robot_4:
+  robot_16:
     f_max:
     - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    r_min:
+    - 175.00 USD
+    - 0.01 rad
+  robot_17:
+    f_max:
+    - 1.0 m
+    - 1.5 m
+    - 1.5 m/s
+    r_min:
+    - 180.00 USD
+    - 0.01 rad
+  robot_18:
+    f_max:
+    - 1.0 m
+    - 2.0 m
+    - 0.5 m/s
+    r_min:
+    - 185.00 USD
+    - 0.01 rad
+  robot_19:
+    f_max:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    r_min:
+    - 190.00 USD
+    - 0.01 rad
+  robot_20:
+    f_max:
+    - 1.0 m
+    - 2.0 m
+    - 1.5 m/s
+    r_min:
+    - 195.00 USD
+    - 0.01 rad
+  robot_21:
+    f_max:
+    - 1.0 m
+    - 3.0 m
+    - 0.5 m/s
+    r_min:
+    - 225.00 USD
+    - 0.01 rad
+  robot_22:
+    f_max:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    r_min:
+    - 230.00 USD
+    - 0.01 rad
+  robot_23:
+    f_max:
+    - 1.0 m
+    - 3.0 m
+    - 1.5 m/s
+    r_min:
+    - 235.00 USD
+    - 0.01 rad
+  robot_24:
+    f_max:
+    - 1.5 m
     - 1.0 m
     - 0.5 m/s
     r_min:
-    - 110.00 USD
-    - 0.02 rad
-  robot_5:
+    - 220.00 USD
+    - 0.01 rad
+  robot_25:
+    f_max:
+    - 1.5 m
+    - 1.0 m
+    - 1.0 m/s
+    r_min:
+    - 215.00 USD
+    - 0.01 rad
+  robot_26:
+    f_max:
+    - 1.5 m
+    - 1.0 m
+    - 1.5 m/s
+    r_min:
+    - 240.00 USD
+    - 0.01 rad
+  robot_27:
     f_max:
     - 1.5 m
     - 1.5 m
     - 0.5 m/s
     r_min:
-    - 160.00 USD
-    - 0.02 rad
-  robot_6:
-    f_max:
-    - 0.5 m
-    - 0.5 m
-    - 0.5 m/s
-    r_min:
-    - 50.00 USD
-    - 0.03 rad
-  robot_7:
-    f_max:
-    - 1.0 m
-    - 1.0 m
-    - 0.5 m/s
-    r_min:
-    - 100.00 USD
-    - 0.03 rad
-  robot_8:
+    - 245.00 USD
+    - 0.01 rad
+  robot_28:
     f_max:
     - 1.5 m
     - 1.5 m
+    - 1.0 m/s
+    r_min:
+    - 250.00 USD
+    - 0.01 rad
+  robot_29:
+    f_max:
+    - 1.5 m
+    - 1.5 m
+    - 1.5 m/s
+    r_min:
+    - 255.00 USD
+    - 0.01 rad
+  robot_30:
+    f_max:
+    - 1.5 m
+    - 2.0 m
     - 0.5 m/s
     r_min:
-    - 150.00 USD
-    - 0.03 rad
-  robot_9:
+    - 260.00 USD
+    - 0.01 rad
+  robot_31:
     f_max:
-    - 0.5 m
-    - 0.5 m
+    - 1.5 m
+    - 2.0 m
+    - 1.0 m/s
+    r_min:
+    - 265.00 USD
+    - 0.01 rad
+  robot_32:
+    f_max:
+    - 1.5 m
+    - 2.0 m
+    - 1.5 m/s
+    r_min:
+    - 270.00 USD
+    - 0.01 rad
+  robot_33:
+    f_max:
+    - 1.5 m
+    - 3.0 m
     - 0.5 m/s
     r_min:
-    - 40.00 USD
-    - 0.04 rad
-  robot_10:
+    - 280.00 USD
+    - 0.01 rad
+  robot_34:
     f_max:
-    - 1.0 m
+    - 1.5 m
+    - 3.0 m
+    - 1.0 m/s
+    r_min:
+    - 275.00 USD
+    - 0.01 rad
+  robot_35:
+    f_max:
+    - 1.5 m
+    - 3.0 m
+    - 1.5 m/s
+    r_min:
+    - 290.00 USD
+    - 0.01 rad
+  robot_36:
+    f_max:
+    - 0.5 m
     - 1.0 m
     - 0.5 m/s
     r_min:
     - 90.00 USD
-    - 0.04 rad
-  robot_11:
+    - 0.02 rad
+  robot_37:
+    f_max:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    r_min:
+    - 95.00 USD
+    - 0.02 rad
+  robot_38:
+    f_max:
+    - 0.5 m
+    - 1.0 m
+    - 1.5 m/s
+    r_min:
+    - 120.00 USD
+    - 0.02 rad
+  robot_39:
+    f_max:
+    - 0.5 m
+    - 1.5 m
+    - 0.5 m/s
+    r_min:
+    - 115.00 USD
+    - 0.02 rad
+  robot_40:
+    f_max:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    r_min:
+    - 300.00 USD
+    - 0.02 rad
+  robot_41:
+    f_max:
+    - 0.5 m
+    - 1.5 m
+    - 1.5 m/s
+    r_min:
+    - 285.00 USD
+    - 0.02 rad
+  robot_42:
+    f_max:
+    - 0.5 m
+    - 2.0 m
+    - 0.5 m/s
+    r_min:
+    - 310.00 USD
+    - 0.02 rad
+  robot_43:
+    f_max:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    r_min:
+    - 295.00 USD
+    - 0.02 rad
+  robot_44:
+    f_max:
+    - 0.5 m
+    - 2.0 m
+    - 1.5 m/s
+    r_min:
+    - 320.00 USD
+    - 0.02 rad
+  robot_45:
+    f_max:
+    - 0.5 m
+    - 3.0 m
+    - 0.5 m/s
+    r_min:
+    - 330.00 USD
+    - 0.02 rad
+  robot_46:
+    f_max:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    r_min:
+    - 305.00 USD
+    - 0.02 rad
+  robot_47:
+    f_max:
+    - 0.5 m
+    - 3.0 m
+    - 1.5 m/s
+    r_min:
+    - 340.00 USD
+    - 0.02 rad
+  robot_48:
+    f_max:
+    - 1.0 m
+    - 1.0 m
+    - 0.5 m/s
+    r_min:
+    - 315.00 USD
+    - 0.02 rad
+  robot_49:
+    f_max:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    r_min:
+    - 350.00 USD
+    - 0.02 rad
+  robot_50:
+    f_max:
+    - 1.0 m
+    - 1.0 m
+    - 1.5 m/s
+    r_min:
+    - 325.00 USD
+    - 0.02 rad
+  robot_51:
+    f_max:
+    - 1.0 m
+    - 1.5 m
+    - 0.5 m/s
+    r_min:
+    - 360.00 USD
+    - 0.02 rad
+  robot_52:
+    f_max:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    r_min:
+    - 335.00 USD
+    - 0.02 rad
+  robot_53:
+    f_max:
+    - 1.0 m
+    - 1.5 m
+    - 1.5 m/s
+    r_min:
+    - 370.00 USD
+    - 0.02 rad
+  robot_54:
+    f_max:
+    - 1.0 m
+    - 2.0 m
+    - 0.5 m/s
+    r_min:
+    - 345.00 USD
+    - 0.02 rad
+  robot_55:
+    f_max:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    r_min:
+    - 380.00 USD
+    - 0.02 rad
+  robot_56:
+    f_max:
+    - 1.0 m
+    - 2.0 m
+    - 1.5 m/s
+    r_min:
+    - 355.00 USD
+    - 0.02 rad
+  robot_57:
+    f_max:
+    - 1.0 m
+    - 3.0 m
+    - 0.5 m/s
+    r_min:
+    - 365.00 USD
+    - 0.02 rad
+  robot_58:
+    f_max:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    r_min:
+    - 390.00 USD
+    - 0.02 rad
+  robot_59:
+    f_max:
+    - 1.0 m
+    - 3.0 m
+    - 1.5 m/s
+    r_min:
+    - 375.00 USD
+    - 0.02 rad
+  robot_60:
+    f_max:
+    - 1.5 m
+    - 1.0 m
+    - 0.5 m/s
+    r_min:
+    - 400.00 USD
+    - 0.02 rad
+  robot_61:
+    f_max:
+    - 1.5 m
+    - 1.0 m
+    - 1.0 m/s
+    r_min:
+    - 385.00 USD
+    - 0.02 rad
+  robot_62:
+    f_max:
+    - 1.5 m
+    - 1.0 m
+    - 1.5 m/s
+    r_min:
+    - 410.00 USD
+    - 0.02 rad
+  robot_63:
     f_max:
     - 1.5 m
     - 1.5 m
     - 0.5 m/s
     r_min:
-    - 140.00 USD
+    - 395.00 USD
+    - 0.02 rad
+  robot_64:
+    f_max:
+    - 1.5 m
+    - 1.5 m
+    - 1.0 m/s
+    r_min:
+    - 420.00 USD
+    - 0.02 rad
+  robot_65:
+    f_max:
+    - 1.5 m
+    - 1.5 m
+    - 1.5 m/s
+    r_min:
+    - 405.00 USD
+    - 0.02 rad
+  robot_66:
+    f_max:
+    - 1.5 m
+    - 2.0 m
+    - 0.5 m/s
+    r_min:
+    - 430.00 USD
+    - 0.02 rad
+  robot_67:
+    f_max:
+    - 1.5 m
+    - 2.0 m
+    - 1.0 m/s
+    r_min:
+    - 415.00 USD
+    - 0.02 rad
+  robot_68:
+    f_max:
+    - 1.5 m
+    - 2.0 m
+    - 1.5 m/s
+    r_min:
+    - 440.00 USD
+    - 0.02 rad
+  robot_69:
+    f_max:
+    - 1.5 m
+    - 3.0 m
+    - 0.5 m/s
+    r_min:
+    - 450.00 USD
+    - 0.02 rad
+  robot_70:
+    f_max:
+    - 1.5 m
+    - 3.0 m
+    - 1.0 m/s
+    r_min:
+    - 425.00 USD
+    - 0.02 rad
+  robot_71:
+    f_max:
+    - 1.5 m
+    - 3.0 m
+    - 1.5 m/s
+    r_min:
+    - 460.00 USD
+    - 0.02 rad
+  robot_72:
+    f_max:
+    - 0.5 m
+    - 1.0 m
+    - 0.5 m/s
+    r_min:
+    - 80.00 USD
+    - 0.03 rad
+  robot_73:
+    f_max:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    r_min:
+    - 85.00 USD
+    - 0.03 rad
+  robot_74:
+    f_max:
+    - 0.5 m
+    - 1.0 m
+    - 1.5 m/s
+    r_min:
+    - 470.00 USD
+    - 0.03 rad
+  robot_75:
+    f_max:
+    - 0.5 m
+    - 1.5 m
+    - 0.5 m/s
+    r_min:
+    - 435.00 USD
+    - 0.03 rad
+  robot_76:
+    f_max:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    r_min:
+    - 480.00 USD
+    - 0.03 rad
+  robot_77:
+    f_max:
+    - 0.5 m
+    - 1.5 m
+    - 1.5 m/s
+    r_min:
+    - 445.00 USD
+    - 0.03 rad
+  robot_78:
+    f_max:
+    - 0.5 m
+    - 2.0 m
+    - 0.5 m/s
+    r_min:
+    - 490.00 USD
+    - 0.03 rad
+  robot_79:
+    f_max:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    r_min:
+    - 455.00 USD
+    - 0.03 rad
+  robot_80:
+    f_max:
+    - 0.5 m
+    - 2.0 m
+    - 1.5 m/s
+    r_min:
+    - 500.00 USD
+    - 0.03 rad
+  robot_81:
+    f_max:
+    - 0.5 m
+    - 3.0 m
+    - 0.5 m/s
+    r_min:
+    - 510.00 USD
+    - 0.03 rad
+  robot_82:
+    f_max:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    r_min:
+    - 465.00 USD
+    - 0.03 rad
+  robot_83:
+    f_max:
+    - 0.5 m
+    - 3.0 m
+    - 1.5 m/s
+    r_min:
+    - 520.00 USD
+    - 0.03 rad
+  robot_84:
+    f_max:
+    - 1.0 m
+    - 1.0 m
+    - 0.5 m/s
+    r_min:
+    - 475.00 USD
+    - 0.03 rad
+  robot_85:
+    f_max:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    r_min:
+    - 530.00 USD
+    - 0.03 rad
+  robot_86:
+    f_max:
+    - 1.0 m
+    - 1.0 m
+    - 1.5 m/s
+    r_min:
+    - 485.00 USD
+    - 0.03 rad
+  robot_87:
+    f_max:
+    - 1.0 m
+    - 1.5 m
+    - 0.5 m/s
+    r_min:
+    - 540.00 USD
+    - 0.03 rad
+  robot_88:
+    f_max:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    r_min:
+    - 495.00 USD
+    - 0.03 rad
+  robot_89:
+    f_max:
+    - 1.0 m
+    - 1.5 m
+    - 1.5 m/s
+    r_min:
+    - 550.00 USD
+    - 0.03 rad
+  robot_90:
+    f_max:
+    - 1.0 m
+    - 2.0 m
+    - 0.5 m/s
+    r_min:
+    - 505.00 USD
+    - 0.03 rad
+  robot_91:
+    f_max:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    r_min:
+    - 560.00 USD
+    - 0.03 rad
+  robot_92:
+    f_max:
+    - 1.0 m
+    - 2.0 m
+    - 1.5 m/s
+    r_min:
+    - 515.00 USD
+    - 0.03 rad
+  robot_93:
+    f_max:
+    - 1.0 m
+    - 3.0 m
+    - 0.5 m/s
+    r_min:
+    - 525.00 USD
+    - 0.03 rad
+  robot_94:
+    f_max:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    r_min:
+    - 570.00 USD
+    - 0.03 rad
+  robot_95:
+    f_max:
+    - 1.0 m
+    - 3.0 m
+    - 1.5 m/s
+    r_min:
+    - 535.00 USD
+    - 0.03 rad
+  robot_96:
+    f_max:
+    - 1.5 m
+    - 1.0 m
+    - 0.5 m/s
+    r_min:
+    - 580.00 USD
+    - 0.03 rad
+  robot_97:
+    f_max:
+    - 1.5 m
+    - 1.0 m
+    - 1.0 m/s
+    r_min:
+    - 545.00 USD
+    - 0.03 rad
+  robot_98:
+    f_max:
+    - 1.5 m
+    - 1.0 m
+    - 1.5 m/s
+    r_min:
+    - 590.00 USD
+    - 0.03 rad
+  robot_99:
+    f_max:
+    - 1.5 m
+    - 1.5 m
+    - 0.5 m/s
+    r_min:
+    - 555.00 USD
+    - 0.03 rad
+  robot_100:
+    f_max:
+    - 1.5 m
+    - 1.5 m
+    - 1.0 m/s
+    r_min:
+    - 600.00 USD
+    - 0.03 rad
+  robot_101:
+    f_max:
+    - 1.5 m
+    - 1.5 m
+    - 1.5 m/s
+    r_min:
+    - 565.00 USD
+    - 0.03 rad
+  robot_102:
+    f_max:
+    - 1.5 m
+    - 2.0 m
+    - 0.5 m/s
+    r_min:
+    - 610.00 USD
+    - 0.03 rad
+  robot_103:
+    f_max:
+    - 1.5 m
+    - 2.0 m
+    - 1.0 m/s
+    r_min:
+    - 575.00 USD
+    - 0.03 rad
+  robot_104:
+    f_max:
+    - 1.5 m
+    - 2.0 m
+    - 1.5 m/s
+    r_min:
+    - 620.00 USD
+    - 0.03 rad
+  robot_105:
+    f_max:
+    - 1.5 m
+    - 3.0 m
+    - 0.5 m/s
+    r_min:
+    - 630.00 USD
+    - 0.03 rad
+  robot_106:
+    f_max:
+    - 1.5 m
+    - 3.0 m
+    - 1.0 m/s
+    r_min:
+    - 585.00 USD
+    - 0.03 rad
+  robot_107:
+    f_max:
+    - 1.5 m
+    - 3.0 m
+    - 1.5 m/s
+    r_min:
+    - 640.00 USD
+    - 0.03 rad
+  robot_108:
+    f_max:
+    - 0.5 m
+    - 1.0 m
+    - 0.5 m/s
+    r_min:
+    - 70.00 USD
+    - 0.04 rad
+  robot_109:
+    f_max:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    r_min:
+    - 75.00 USD
+    - 0.04 rad
+  robot_110:
+    f_max:
+    - 0.5 m
+    - 1.0 m
+    - 1.5 m/s
+    r_min:
+    - 650.00 USD
+    - 0.04 rad
+  robot_111:
+    f_max:
+    - 0.5 m
+    - 1.5 m
+    - 0.5 m/s
+    r_min:
+    - 595.00 USD
+    - 0.04 rad
+  robot_112:
+    f_max:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    r_min:
+    - 660.00 USD
+    - 0.04 rad
+  robot_113:
+    f_max:
+    - 0.5 m
+    - 1.5 m
+    - 1.5 m/s
+    r_min:
+    - 605.00 USD
+    - 0.04 rad
+  robot_114:
+    f_max:
+    - 0.5 m
+    - 2.0 m
+    - 0.5 m/s
+    r_min:
+    - 670.00 USD
+    - 0.04 rad
+  robot_115:
+    f_max:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    r_min:
+    - 615.00 USD
+    - 0.04 rad
+  robot_116:
+    f_max:
+    - 0.5 m
+    - 2.0 m
+    - 1.5 m/s
+    r_min:
+    - 680.00 USD
+    - 0.04 rad
+  robot_117:
+    f_max:
+    - 0.5 m
+    - 3.0 m
+    - 0.5 m/s
+    r_min:
+    - 690.00 USD
+    - 0.04 rad
+  robot_118:
+    f_max:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    r_min:
+    - 625.00 USD
+    - 0.04 rad
+  robot_119:
+    f_max:
+    - 0.5 m
+    - 3.0 m
+    - 1.5 m/s
+    r_min:
+    - 700.00 USD
+    - 0.04 rad
+  robot_120:
+    f_max:
+    - 1.0 m
+    - 1.0 m
+    - 0.5 m/s
+    r_min:
+    - 635.00 USD
+    - 0.04 rad
+  robot_121:
+    f_max:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    r_min:
+    - 710.00 USD
+    - 0.04 rad
+  robot_122:
+    f_max:
+    - 1.0 m
+    - 1.0 m
+    - 1.5 m/s
+    r_min:
+    - 645.00 USD
+    - 0.04 rad
+  robot_123:
+    f_max:
+    - 1.0 m
+    - 1.5 m
+    - 0.5 m/s
+    r_min:
+    - 720.00 USD
+    - 0.04 rad
+  robot_124:
+    f_max:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    r_min:
+    - 655.00 USD
+    - 0.04 rad
+  robot_125:
+    f_max:
+    - 1.0 m
+    - 1.5 m
+    - 1.5 m/s
+    r_min:
+    - 730.00 USD
+    - 0.04 rad
+  robot_126:
+    f_max:
+    - 1.0 m
+    - 2.0 m
+    - 0.5 m/s
+    r_min:
+    - 665.00 USD
+    - 0.04 rad
+  robot_127:
+    f_max:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    r_min:
+    - 740.00 USD
+    - 0.04 rad
+  robot_128:
+    f_max:
+    - 1.0 m
+    - 2.0 m
+    - 1.5 m/s
+    r_min:
+    - 675.00 USD
+    - 0.04 rad
+  robot_129:
+    f_max:
+    - 1.0 m
+    - 3.0 m
+    - 0.5 m/s
+    r_min:
+    - 685.00 USD
+    - 0.04 rad
+  robot_130:
+    f_max:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    r_min:
+    - 750.00 USD
+    - 0.04 rad
+  robot_131:
+    f_max:
+    - 1.0 m
+    - 3.0 m
+    - 1.5 m/s
+    r_min:
+    - 695.00 USD
+    - 0.04 rad
+  robot_132:
+    f_max:
+    - 1.5 m
+    - 1.0 m
+    - 0.5 m/s
+    r_min:
+    - 760.00 USD
+    - 0.04 rad
+  robot_133:
+    f_max:
+    - 1.5 m
+    - 1.0 m
+    - 1.0 m/s
+    r_min:
+    - 705.00 USD
+    - 0.04 rad
+  robot_134:
+    f_max:
+    - 1.5 m
+    - 1.0 m
+    - 1.5 m/s
+    r_min:
+    - 770.00 USD
+    - 0.04 rad
+  robot_135:
+    f_max:
+    - 1.5 m
+    - 1.5 m
+    - 0.5 m/s
+    r_min:
+    - 715.00 USD
+    - 0.04 rad
+  robot_136:
+    f_max:
+    - 1.5 m
+    - 1.5 m
+    - 1.0 m/s
+    r_min:
+    - 780.00 USD
+    - 0.04 rad
+  robot_137:
+    f_max:
+    - 1.5 m
+    - 1.5 m
+    - 1.5 m/s
+    r_min:
+    - 725.00 USD
+    - 0.04 rad
+  robot_138:
+    f_max:
+    - 1.5 m
+    - 2.0 m
+    - 0.5 m/s
+    r_min:
+    - 790.00 USD
+    - 0.04 rad
+  robot_139:
+    f_max:
+    - 1.5 m
+    - 2.0 m
+    - 1.0 m/s
+    r_min:
+    - 735.00 USD
+    - 0.04 rad
+  robot_140:
+    f_max:
+    - 1.5 m
+    - 2.0 m
+    - 1.5 m/s
+    r_min:
+    - 800.00 USD
+    - 0.04 rad
+  robot_141:
+    f_max:
+    - 1.5 m
+    - 3.0 m
+    - 0.5 m/s
+    r_min:
+    - 810.00 USD
+    - 0.04 rad
+  robot_142:
+    f_max:
+    - 1.5 m
+    - 3.0 m
+    - 1.0 m/s
+    r_min:
+    - 745.00 USD
+    - 0.04 rad
+  robot_143:
+    f_max:
+    - 1.5 m
+    - 3.0 m
+    - 1.5 m/s
+    r_min:
+    - 820.00 USD
     - 0.04 rad

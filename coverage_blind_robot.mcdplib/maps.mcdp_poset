@@ -3,4 +3,6 @@ poset {
   # it might contain more information, such as initial state.
   map_a
   map_square15
+  map_jake15
+  map_jake215
 }

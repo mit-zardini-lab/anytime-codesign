@@ -1,0 +1,4910 @@
+F:
+- rad
+- '`maps'
+- m^2
+R:
+- m
+- m
+- m/s
+- s
+implementations:
+  jake15_tm001_rr05_sr10_speed10_00001acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 7.09747 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 4.97659 s
+  jake15_tm001_rr05_sr10_speed10_00005acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 9.90183 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 5.43957 s
+  jake15_tm001_rr05_sr10_speed10_00006acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 10.4772 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 7.11026 s
+  jake15_tm001_rr05_sr10_speed10_00010acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 18.2148 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 12.4871 s
+  jake15_tm001_rr05_sr10_speed10_00011acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 20.3096 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 15.6835 s
+  jake15_tm001_rr05_sr10_speed10_00015acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 27.3848 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 18.6947 s
+  jake15_tm001_rr05_sr10_speed10_00016acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 27.6666 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 23.7938 s
+  jake15_tm001_rr05_sr10_speed10_00020acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 28.0592 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 25.2143 s
+  jake15_tm001_rr05_sr10_speed10_00021acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 31.4324 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 30.2274 s
+  jake15_tm001_rr05_sr10_speed10_00025acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 36.7262 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 32.245 s
+  jake15_tm001_rr05_sr10_speed10_00026acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 36.9806 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 38.3218 s
+  jake15_tm001_rr05_sr10_speed10_00030acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 37.14 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 40.533 s
+  jake15_tm001_rr05_sr10_speed10_00031acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 37.14 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 45.5096 s
+  jake15_tm001_rr05_sr10_speed10_00035acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 37.14 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 45.9726 s
+  jake15_tm001_rr05_sr10_speed10_00036acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 37.14 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 50.9756 s
+  jake15_tm001_rr05_sr10_speed10_00040acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 38.2504 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 53.9724 s
+  jake15_tm001_rr05_sr10_speed10_00041acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 38.2504 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 57.9294 s
+  jake15_tm001_rr05_sr10_speed10_00045acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 38.8356 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 60.2552 s
+  jake15_tm001_rr05_sr10_speed10_00046acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 38.8356 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 65.2318 s
+  jake15_tm001_rr05_sr10_speed10_00050acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 38.842 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 65.6948 s
+  jake15_tm001_rr05_sr10_speed10_00051acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 38.842 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 70.699 s
+  jake15_tm001_rr05_sr10_speed10_00055acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 39.3376 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 73.2976 s
+  jake15_tm001_rr05_sr10_speed10_00056acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 39.3376 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 78.3968 s
+  jake15_tm001_rr05_sr10_speed10_00060acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 39.3376 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 79.8173 s
+  jake15_tm001_rr05_sr10_speed10_00061acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 39.3376 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 84.8303 s
+  jake15_tm001_rr05_sr10_speed10_00065acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 39.36 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 87.1965 s
+  jake15_tm001_rr05_sr10_speed10_00066acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 39.4993 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 90.9397 s
+  jake15_tm001_rr05_sr10_speed10_00070acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 39.7546 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 91.7295 s
+  jake15_tm001_rr05_sr10_speed10_00071acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 39.7546 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 97.8064 s
+  jake15_tm001_rr05_sr10_speed10_00075acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 39.7546 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 100.018 s
+  jake15_tm001_rr05_sr10_speed10_00076acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 39.7546 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 104.994 s
+  jake15_tm001_rr05_sr10_speed10_00080acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 39.7546 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 105.457 s
+  jake15_tm001_rr05_sr10_speed10_00081acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 39.7546 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 107.128 s
+  jake15_tm001_rr05_sr10_speed10_00085acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 39.947 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 112.167 s
+  jake15_tm001_rr05_sr15_speed10_00001acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 8.07369 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 5.01305 s
+  jake15_tm001_rr05_sr15_speed10_00005acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 17.547 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 7.03063 s
+  jake15_tm001_rr05_sr15_speed10_00006acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 23.708 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 13.9562 s
+  jake15_tm001_rr05_sr15_speed10_00010acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 34.4209 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 17.5437 s
+  jake15_tm001_rr05_sr20_speed10_00001acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 10.5778 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 5.01305 s
+  jake15_tm001_rr05_sr20_speed10_00005acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 26.3111 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 7.03063 s
+  jake15_tm001_rr05_sr20_speed10_00006acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 31.6398 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 13.9562 s
+  jake15_tm001_rr05_sr20_speed10_00010acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 49.1205 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 17.5437 s
+  jake15_tm001_rr05_sr30_speed10_00001acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 13.1626 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 5.01305 s
+  jake15_tm001_rr05_sr30_speed10_00005acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 45.3652 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 7.03063 s
+  jake15_tm001_rr05_sr30_speed10_00006acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 48.6331 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 13.9562 s
+  jake15_tm001_rr05_sr30_speed10_00010acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 84.1442 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 17.5437 s
+  jake15_tm001_rr10_sr10_speed10_00001acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 3.52471 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 3.63017 s
+  jake15_tm001_rr10_sr10_speed10_00005acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 6.48599 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 4.58514 s
+  jake15_tm001_rr10_sr10_speed10_00006acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 6.48599 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 5.25973 s
+  jake15_tm001_rr10_sr10_speed10_00010acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 13.3082 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 10.0477 s
+  jake15_tm001_rr10_sr10_speed10_00011acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 13.8256 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 12.1676 s
+  jake15_tm001_rr10_sr10_speed10_00015acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 16.1435 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 12.5898 s
+  jake15_tm001_rr10_sr10_speed10_00016acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 16.207 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 15.0263 s
+  jake15_tm001_rr10_sr10_speed10_00020acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 16.2554 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 15.1136 s
+  jake15_tm001_rr10_sr10_speed10_00021acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 16.2624 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 17.5383 s
+  jake15_tm001_rr10_sr10_speed10_00025acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 16.2626 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 17.7187 s
+  jake15_tm001_rr10_sr10_speed10_00026acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 16.2752 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 19.4207 s
+  jake15_tm001_rr10_sr10_speed10_00030acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 18.1026 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 20.5028 s
+  jake15_tm001_rr10_sr10_speed10_00031acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 18.1026 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 22.5768 s
+  jake15_tm001_rr10_sr10_speed10_00035acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 18.1026 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 22.6396 s
+  jake15_tm001_rr10_sr10_speed10_00036acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 18.1026 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 26.2698 s
+  jake15_tm001_rr10_sr10_speed10_00040acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 18.1026 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 27.2248 s
+  jake15_tm001_rr10_sr10_speed10_00041acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 18.1026 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 28.2286 s
+  jake15_tm001_rr10_sr10_speed10_00045acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 18.9499 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 31.5372 s
+  jake15_tm001_rr10_sr10_speed10_00046acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 18.9499 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 34.2972 s
+  jake15_tm001_rr10_sr10_speed10_00050acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 19.2665 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 36.0925 s
+  jake15_tm001_rr10_sr10_speed10_00051acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 19.2665 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 39.7227 s
+  jake15_tm001_rr10_sr10_speed10_00055acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 19.294 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 40.3515 s
+  jake15_tm001_rr10_sr15_speed10_00001acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 2.93075 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 2.04836 s
+  jake15_tm001_rr10_sr15_speed10_00005acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 8.46342 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 2.15192 s
+  jake15_tm001_rr10_sr15_speed10_00006acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 10.2548 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 5.71674 s
+  jake15_tm001_rr10_sr15_speed10_00010acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 21.3093 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 8.70865 s
+  jake15_tm001_rr10_sr20_speed10_00001acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 3.61855 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 2.04836 s
+  jake15_tm001_rr10_sr20_speed10_00005acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 13.5174 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 2.15192 s
+  jake15_tm001_rr10_sr20_speed10_00006acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 14.8708 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 5.71674 s
+  jake15_tm001_rr10_sr20_speed10_00010acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 31.4751 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 8.70865 s
+  jake15_tm001_rr10_sr30_speed10_00001acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 4.52245 m^2
+    r_min:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    - 2.04836 s
+  jake15_tm001_rr10_sr30_speed10_00005acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 28.837 m^2
+    r_min:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    - 2.15192 s
+  jake15_tm001_rr10_sr30_speed10_00006acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 29.5086 m^2
+    r_min:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    - 5.71674 s
+  jake15_tm001_rr10_sr30_speed10_00010acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 56.0779 m^2
+    r_min:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    - 8.70865 s
+  jake15_tm001_rr15_sr10_speed10_00001acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 0.553455 m^2
+    r_min:
+    - 1.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 1.06799 s
+  jake15_tm001_rr15_sr10_speed10_00005acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 4.12314 m^2
+    r_min:
+    - 1.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 1.71049 s
+  jake15_tm001_rr15_sr10_speed10_00006acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 4.12314 m^2
+    r_min:
+    - 1.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 3.03342 s
+  jake15_tm001_rr15_sr10_speed10_00010acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 6.96703 m^2
+    r_min:
+    - 1.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 3.91185 s
+  jake15_tm001_rr15_sr15_speed10_00001acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 0.553455 m^2
+    r_min:
+    - 1.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 1.06799 s
+  jake15_tm001_rr15_sr15_speed10_00005acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 8.47559 m^2
+    r_min:
+    - 1.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 1.71049 s
+  jake15_tm001_rr15_sr15_speed10_00006acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 8.47559 m^2
+    r_min:
+    - 1.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 3.03342 s
+  jake15_tm001_rr15_sr15_speed10_00010acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 12.5569 m^2
+    r_min:
+    - 1.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 3.91185 s
+  jake15_tm001_rr15_sr20_speed10_00001acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 0.553455 m^2
+    r_min:
+    - 1.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 1.06799 s
+  jake15_tm001_rr15_sr20_speed10_00005acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 14.3964 m^2
+    r_min:
+    - 1.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 1.71049 s
+  jake15_tm001_rr15_sr20_speed10_00006acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 14.3964 m^2
+    r_min:
+    - 1.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 3.03342 s
+  jake15_tm001_rr15_sr20_speed10_00010acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 19.685 m^2
+    r_min:
+    - 1.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 3.91185 s
+  jake15_tm001_rr15_sr30_speed10_00001acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 0.553455 m^2
+    r_min:
+    - 1.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 1.06799 s
+  jake15_tm001_rr15_sr30_speed10_00005acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 30.8999 m^2
+    r_min:
+    - 1.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 1.71049 s
+  jake15_tm001_rr15_sr30_speed10_00006acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 30.8999 m^2
+    r_min:
+    - 1.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 3.03342 s
+  jake15_tm001_rr15_sr30_speed10_00010acts:
+    f_max:
+    - 0.01 rad
+    - '`maps: map_jake15'
+    - 38.5872 m^2
+    r_min:
+    - 1.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 3.91185 s
+  jake15_tm002_rr05_sr10_speed10_00001acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 6.83857 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 4.71305 s
+  jake15_tm002_rr05_sr10_speed10_00005acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 10.1328 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 5.57775 s
+  jake15_tm002_rr05_sr10_speed10_00006acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 10.7856 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 7.24904 s
+  jake15_tm002_rr05_sr10_speed10_00010acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 18.6823 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 12.3397 s
+  jake15_tm002_rr05_sr10_speed10_00011acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 20.812 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 15.5664 s
+  jake15_tm002_rr05_sr10_speed10_00015acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 27.7569 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 18.4812 s
+  jake15_tm002_rr05_sr10_speed10_00016acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 27.9708 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 23.5615 s
+  jake15_tm002_rr05_sr10_speed10_00020acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 28.1685 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 25.1545 s
+  jake15_tm002_rr05_sr10_speed10_00021acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 31.6646 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 30.1625 s
+  jake15_tm002_rr05_sr10_speed10_00025acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 36.4032 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 31.7848 s
+  jake15_tm002_rr05_sr10_speed10_00026acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 36.786 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 37.9478 s
+  jake15_tm002_rr05_sr10_speed10_00030acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 36.8677 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 40.416 s
+  jake15_tm002_rr05_sr10_speed10_00031acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 36.8677 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 45.1291 s
+  jake15_tm002_rr05_sr10_speed10_00035acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 36.8677 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 45.9938 s
+  jake15_tm002_rr05_sr10_speed10_00036acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 36.8677 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 50.9997 s
+  jake15_tm002_rr05_sr10_speed10_00040acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 38.0687 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 53.7261 s
+  jake15_tm002_rr05_sr10_speed10_00041acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 38.0687 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 58.7341 s
+  jake15_tm002_rr05_sr10_speed10_00045acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 38.8386 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 61.2417 s
+  jake15_tm002_rr05_sr10_speed10_00046acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 38.8386 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 66.322 s
+  jake15_tm002_rr05_sr10_speed10_00050acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 38.8386 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 67.915 s
+  jake15_tm002_rr05_sr10_speed10_00051acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 38.8386 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 72.923 s
+  jake15_tm002_rr05_sr10_speed10_00055acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 38.8386 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 75.4307 s
+  jake15_tm002_rr05_sr10_speed10_00056acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 38.9192 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 79.1596 s
+  jake15_tm002_rr05_sr10_speed10_00060acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 39.2425 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 80.7408 s
+  jake15_tm002_rr05_sr10_speed10_00061acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 39.2425 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 86.9038 s
+  jake15_tm002_rr05_sr10_speed10_00065acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 39.2425 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 89.372 s
+  jake15_tm002_rr05_sr10_speed10_00066acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 39.2425 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 93.1174 s
+  jake15_tm002_rr05_sr10_speed10_00070acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 39.4838 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 95.7841 s
+  jake15_tm002_rr05_sr10_speed10_00071acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 39.4838 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 100.497 s
+  jake15_tm002_rr05_sr10_speed10_00075acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 39.4978 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 101.362 s
+  jake15_tm002_rr05_sr10_speed10_00076acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 39.4978 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 106.075 s
+  jake15_tm002_rr05_sr10_speed10_00080acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 39.4978 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 106.94 s
+  jake15_tm002_rr05_sr10_speed10_00081acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 39.4978 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 112.024 s
+  jake15_tm002_rr05_sr10_speed10_00085acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 39.6104 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 113.447 s
+  jake15_tm002_rr05_sr10_speed10_00086acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 39.6104 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 117.65 s
+  jake15_tm002_rr05_sr10_speed10_00090acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 39.7119 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 119.271 s
+  jake15_tm002_rr05_sr10_speed10_00091acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 39.7119 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 124.352 s
+  jake15_tm002_rr05_sr10_speed10_00095acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 39.7119 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 125.945 s
+  jake15_tm002_rr05_sr15_speed10_00001acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 7.94702 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 5.00801 s
+  jake15_tm002_rr05_sr15_speed10_00005acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 16.5498 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 6.63025 s
+  jake15_tm002_rr05_sr15_speed10_00006acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 22.3925 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 13.4272 s
+  jake15_tm002_rr05_sr15_speed10_00010acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 33.1457 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 16.953 s
+  jake15_tm002_rr05_sr15_speed10_00011acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 33.2524 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 20.1797 s
+  jake15_tm002_rr05_sr15_speed10_00015acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 43.0618 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 23.0945 s
+  jake15_tm002_rr05_sr15_speed10_00016acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 43.0618 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 28.1748 s
+  jake15_tm002_rr05_sr15_speed10_00020acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 43.1588 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 29.7678 s
+  jake15_tm002_rr05_sr15_speed10_00021acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 43.1588 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 34.7758 s
+  jake15_tm002_rr05_sr15_speed10_00025acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 43.3978 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 37.2835 s
+  jake15_tm002_rr05_sr15_speed10_00026acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 43.57 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 41.0124 s
+  jake15_tm002_rr05_sr15_speed10_00030acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 44.3513 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 42.5936 s
+  jake15_tm002_rr05_sr15_speed10_00031acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 44.3513 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 48.7566 s
+  jake15_tm002_rr05_sr15_speed10_00035acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 44.3766 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 51.2248 s
+  jake15_tm002_rr05_sr20_speed10_00001acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 10.2033 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 5.00801 s
+  jake15_tm002_rr05_sr20_speed10_00005acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 24.8218 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 6.63025 s
+  jake15_tm002_rr05_sr20_speed10_00006acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 30.175 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 13.4272 s
+  jake15_tm002_rr05_sr20_speed10_00010acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 47.4287 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 16.953 s
+  jake15_tm002_rr05_sr30_speed10_00001acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 13.1154 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 5.00801 s
+  jake15_tm002_rr05_sr30_speed10_00005acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 43.684 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 6.63025 s
+  jake15_tm002_rr05_sr30_speed10_00006acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 46.9992 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 13.4272 s
+  jake15_tm002_rr05_sr30_speed10_00010acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 82.3367 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 16.953 s
+  jake15_tm002_rr10_sr10_speed10_00001acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 3.42309 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 3.28359 s
+  jake15_tm002_rr10_sr10_speed10_00005acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 7.44752 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 4.38775 s
+  jake15_tm002_rr10_sr10_speed10_00006acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 7.44752 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 5.06244 s
+  jake15_tm002_rr10_sr10_speed10_00010acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 13.4857 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 9.85764 s
+  jake15_tm002_rr10_sr10_speed10_00011acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 14.0516 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 12.0041 s
+  jake15_tm002_rr10_sr10_speed10_00015acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 16.3726 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 12.3506 s
+  jake15_tm002_rr10_sr10_speed10_00016acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 16.4321 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 14.7578 s
+  jake15_tm002_rr10_sr10_speed10_00020acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 16.5304 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 14.931 s
+  jake15_tm002_rr10_sr10_speed10_00021acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 16.5304 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 17.0775 s
+  jake15_tm002_rr10_sr10_speed10_00025acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 16.5304 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 17.424 s
+  jake15_tm002_rr10_sr10_speed10_00026acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 16.5573 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 19.0875 s
+  jake15_tm002_rr10_sr10_speed10_00030acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 18.4269 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 20.1329 s
+  jake15_tm002_rr10_sr10_speed10_00031acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 18.4269 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 22.2081 s
+  jake15_tm002_rr10_sr10_speed10_00035acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 18.427 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 22.3352 s
+  jake15_tm002_rr10_sr10_speed10_00036acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 18.427 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 24.391 s
+  jake15_tm002_rr10_sr10_speed10_00040acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 18.4275 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 24.4023 s
+  jake15_tm002_rr10_sr10_speed10_00041acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 18.4275 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 27.9182 s
+  jake15_tm002_rr10_sr10_speed10_00045acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 19.2151 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 30.941 s
+  jake15_tm002_rr10_sr15_speed10_00001acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 2.91799 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 2.05584 s
+  jake15_tm002_rr10_sr15_speed10_00005acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 8.33211 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 2.06715 s
+  jake15_tm002_rr10_sr15_speed10_00006acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 10.1362 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 5.58298 s
+  jake15_tm002_rr10_sr15_speed10_00010acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 21.1802 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 8.60585 s
+  jake15_tm002_rr10_sr20_speed10_00001acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 3.61276 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 2.05584 s
+  jake15_tm002_rr10_sr20_speed10_00005acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 13.3517 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 2.06715 s
+  jake15_tm002_rr10_sr20_speed10_00006acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 14.711 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 5.58298 s
+  jake15_tm002_rr10_sr20_speed10_00010acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 31.3564 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 8.60585 s
+  jake15_tm002_rr10_sr30_speed10_00001acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 4.5174 m^2
+    r_min:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    - 2.05584 s
+  jake15_tm002_rr10_sr30_speed10_00005acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 28.5926 m^2
+    r_min:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    - 2.06715 s
+  jake15_tm002_rr10_sr30_speed10_00006acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 29.2692 m^2
+    r_min:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    - 5.58298 s
+  jake15_tm002_rr10_sr30_speed10_00010acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 55.9758 m^2
+    r_min:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    - 8.60585 s
+  jake15_tm002_rr15_sr10_speed10_00001acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 0.553455 m^2
+    r_min:
+    - 1.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 1.06445 s
+  jake15_tm002_rr15_sr10_speed10_00005acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 4.04988 m^2
+    r_min:
+    - 1.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 1.66592 s
+  jake15_tm002_rr15_sr10_speed10_00006acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 4.04988 m^2
+    r_min:
+    - 1.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 2.96718 s
+  jake15_tm002_rr15_sr10_speed10_00010acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 6.90381 m^2
+    r_min:
+    - 1.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 3.837 s
+  jake15_tm002_rr15_sr15_speed10_00001acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 0.553455 m^2
+    r_min:
+    - 1.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 1.06445 s
+  jake15_tm002_rr15_sr15_speed10_00005acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 8.36586 m^2
+    r_min:
+    - 1.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 1.66592 s
+  jake15_tm002_rr15_sr15_speed10_00006acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 8.36586 m^2
+    r_min:
+    - 1.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 2.96718 s
+  jake15_tm002_rr15_sr15_speed10_00010acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 12.4756 m^2
+    r_min:
+    - 1.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 3.837 s
+  jake15_tm002_rr15_sr20_speed10_00001acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 0.553455 m^2
+    r_min:
+    - 1.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 1.06445 s
+  jake15_tm002_rr15_sr20_speed10_00005acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 14.2526 m^2
+    r_min:
+    - 1.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 1.66592 s
+  jake15_tm002_rr15_sr20_speed10_00006acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 14.2526 m^2
+    r_min:
+    - 1.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 2.96718 s
+  jake15_tm002_rr15_sr20_speed10_00010acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 19.5852 m^2
+    r_min:
+    - 1.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 3.837 s
+  jake15_tm002_rr15_sr30_speed10_00001acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 0.553455 m^2
+    r_min:
+    - 1.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 1.06445 s
+  jake15_tm002_rr15_sr30_speed10_00005acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 30.6887 m^2
+    r_min:
+    - 1.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 1.66592 s
+  jake15_tm002_rr15_sr30_speed10_00006acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 30.6887 m^2
+    r_min:
+    - 1.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 2.96718 s
+  jake15_tm002_rr15_sr30_speed10_00010acts:
+    f_max:
+    - 0.02 rad
+    - '`maps: map_jake15'
+    - 38.4508 m^2
+    r_min:
+    - 1.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 3.837 s
+  jake15_tm003_rr05_sr10_speed10_00001acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 6.42882 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 4.47772 s
+  jake15_tm003_rr05_sr10_speed10_00005acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 9.93672 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 6.44029 s
+  jake15_tm003_rr05_sr10_speed10_00006acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 10.4675 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 8.11166 s
+  jake15_tm003_rr05_sr10_speed10_00010acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 17.9105 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 13.793 s
+  jake15_tm003_rr05_sr10_speed10_00011acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 19.8312 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 17.051 s
+  jake15_tm003_rr05_sr10_speed10_00015acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 26.6836 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 19.8653 s
+  jake15_tm003_rr05_sr10_speed10_00016acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 26.8396 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 24.9288 s
+  jake15_tm003_rr05_sr10_speed10_00020acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 27.6357 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 26.6965 s
+  jake15_tm003_rr05_sr10_speed10_00021acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 27.6357 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 29.9544 s
+  jake15_tm003_rr05_sr10_speed10_00025acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 27.6357 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 32.7687 s
+  jake15_tm003_rr05_sr10_speed10_00026acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 30.5322 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 36.4976 s
+  jake15_tm003_rr05_sr10_speed10_00030acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 33.6656 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 38.1562 s
+  jake15_tm003_rr05_sr10_speed10_00031acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 35.4529 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 44.4104 s
+  jake15_tm003_rr05_sr10_speed10_00035acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 35.7357 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 47.1522 s
+  jake15_tm003_rr05_sr10_speed10_00036acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 35.7357 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 51.6299 s
+  jake15_tm003_rr05_sr10_speed10_00040acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 35.7357 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 53.5925 s
+  jake15_tm003_rr05_sr10_speed10_00041acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 35.7626 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 58.6035 s
+  jake15_tm003_rr05_sr10_speed10_00045acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 36.4872 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 61.0531 s
+  jake15_tm003_rr05_sr10_speed10_00046acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 36.4872 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 64.9559 s
+  jake15_tm003_rr05_sr10_speed10_00050acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 36.9749 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 67.545 s
+  jake15_tm003_rr05_sr10_speed10_00051acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 36.9749 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 72.0227 s
+  jake15_tm003_rr05_sr10_speed10_00055acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 36.9947 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 73.2425 s
+  jake15_tm003_rr05_sr10_speed10_00056acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 36.9947 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 77.7203 s
+  jake15_tm003_rr05_sr10_speed10_00060acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 36.9947 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 79.6828 s
+  jake15_tm003_rr05_sr10_speed10_00061acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 36.9947 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 81.3554 s
+  jake15_tm003_rr05_sr10_speed10_00065acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 37.2303 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 86.4825 s
+  jake15_tm003_rr05_sr10_speed10_00066acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 37.2303 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 90.685 s
+  jake15_tm003_rr05_sr10_speed10_00070acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 37.3956 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 92.195 s
+  jake15_tm003_rr05_sr10_speed10_00071acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 37.3956 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 97.2586 s
+  jake15_tm003_rr05_sr10_speed10_00075acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 37.3956 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 99.0262 s
+  jake15_tm003_rr05_sr15_speed10_00001acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 7.74591 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 3.25799 s
+  jake15_tm003_rr05_sr15_speed10_00005acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 19.0239 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 6.07227 s
+  jake15_tm003_rr05_sr15_speed10_00006acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 22.0617 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 9.74752 s
+  jake15_tm003_rr05_sr15_speed10_00010acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 27.4008 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 10.508 s
+  jake15_tm003_rr05_sr15_speed10_00011acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 30.28 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 17.2434 s
+  jake15_tm003_rr05_sr15_speed10_00015acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 41.2389 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 20.8064 s
+  jake15_tm003_rr05_sr15_speed10_00016acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 41.2389 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 24.0644 s
+  jake15_tm003_rr05_sr15_speed10_00020acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 41.2389 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 26.8787 s
+  jake15_tm003_rr05_sr15_speed10_00021acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 41.4075 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 30.6075 s
+  jake15_tm003_rr05_sr15_speed10_00025acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 42.5888 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 32.2662 s
+  jake15_tm003_rr05_sr15_speed10_00026acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 42.5888 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 38.5204 s
+  jake15_tm003_rr05_sr15_speed10_00030acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 42.683 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 41.2622 s
+  jake15_tm003_rr05_sr15_speed10_00031acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 42.683 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 45.4647 s
+  jake15_tm003_rr05_sr15_speed10_00035acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 42.8674 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 46.9747 s
+  jake15_tm003_rr05_sr15_speed10_00036acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 42.8674 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 52.0382 s
+  jake15_tm003_rr05_sr15_speed10_00040acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 42.9344 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 53.8059 s
+  jake15_tm003_rr05_sr20_speed10_00001acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 9.52543 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 3.25799 s
+  jake15_tm003_rr05_sr20_speed10_00005acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 26.0584 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 6.07227 s
+  jake15_tm003_rr05_sr20_speed10_00006acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 29.3565 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 9.74752 s
+  jake15_tm003_rr05_sr20_speed10_00010acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 38.5926 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 10.508 s
+  jake15_tm003_rr05_sr20_speed10_00011acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 40.4327 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 17.2434 s
+  jake15_tm003_rr05_sr20_speed10_00015acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 57.3855 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 20.8064 s
+  jake15_tm003_rr05_sr20_speed10_00016acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 57.3855 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 24.0644 s
+  jake15_tm003_rr05_sr20_speed10_00020acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 57.3855 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 26.8787 s
+  jake15_tm003_rr05_sr20_speed10_00021acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 57.3896 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 30.6075 s
+  jake15_tm003_rr05_sr20_speed10_00025acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 59.0803 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 32.2662 s
+  jake15_tm003_rr05_sr20_speed10_00026acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 59.0803 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 38.5204 s
+  jake15_tm003_rr05_sr20_speed10_00030acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 59.17 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 41.2622 s
+  jake15_tm003_rr05_sr20_speed10_00031acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 59.17 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 45.4647 s
+  jake15_tm003_rr05_sr20_speed10_00035acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 59.3043 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 46.9747 s
+  jake15_tm003_rr05_sr20_speed10_00036acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 59.3043 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 52.0382 s
+  jake15_tm003_rr05_sr20_speed10_00040acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 59.3662 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 53.8059 s
+  jake15_tm003_rr05_sr30_speed10_00001acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 13.0336 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 3.25799 s
+  jake15_tm003_rr05_sr30_speed10_00005acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 44.0729 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 6.07227 s
+  jake15_tm003_rr05_sr30_speed10_00006acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 45.535 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 9.74752 s
+  jake15_tm003_rr05_sr30_speed10_00010acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 63.2155 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 10.508 s
+  jake15_tm003_rr05_sr30_speed10_00011acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 63.6112 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 17.2434 s
+  jake15_tm003_rr05_sr30_speed10_00015acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 93.5471 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 20.8064 s
+  jake15_tm003_rr05_sr30_speed10_00016acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 93.5471 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 24.0644 s
+  jake15_tm003_rr05_sr30_speed10_00020acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 93.5471 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 26.8787 s
+  jake15_tm003_rr05_sr30_speed10_00021acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 93.5471 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 30.6075 s
+  jake15_tm003_rr05_sr30_speed10_00025acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 94.5854 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 32.2662 s
+  jake15_tm003_rr05_sr30_speed10_00026acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 94.5854 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 38.5204 s
+  jake15_tm003_rr05_sr30_speed10_00030acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 94.6664 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 41.2622 s
+  jake15_tm003_rr05_sr30_speed10_00031acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 94.6664 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 45.4647 s
+  jake15_tm003_rr05_sr30_speed10_00035acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 94.7723 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 46.9747 s
+  jake15_tm003_rr05_sr30_speed10_00036acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 94.7723 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 52.0382 s
+  jake15_tm003_rr05_sr30_speed10_00040acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 94.8277 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 53.8059 s
+  jake15_tm003_rr10_sr10_speed10_00001acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 3.19755 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 2.99851 s
+  jake15_tm003_rr10_sr10_speed10_00005acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 7.03272 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 4.80036 s
+  jake15_tm003_rr10_sr10_speed10_00006acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 7.03272 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 5.47521 s
+  jake15_tm003_rr10_sr10_speed10_00010acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 13.0964 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 10.2784 s
+  jake15_tm003_rr10_sr10_speed10_00011acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 13.7118 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 12.4522 s
+  jake15_tm003_rr10_sr10_speed10_00015acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 16.0439 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 12.7189 s
+  jake15_tm003_rr10_sr10_speed10_00016acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 16.0964 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 15.0986 s
+  jake15_tm003_rr10_sr10_speed10_00020acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 16.2458 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 15.3566 s
+  jake15_tm003_rr10_sr10_speed10_00021acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 16.2458 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 17.5305 s
+  jake15_tm003_rr10_sr10_speed10_00025acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 16.2458 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 17.7972 s
+  jake15_tm003_rr10_sr10_speed10_00026acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 16.2812 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 19.4368 s
+  jake15_tm003_rr10_sr10_speed10_00030acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 18.1941 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 20.4675 s
+  jake15_tm003_rr10_sr10_speed10_00031acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 18.1941 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 22.5448 s
+  jake15_tm003_rr10_sr10_speed10_00035acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 18.1942 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 22.7376 s
+  jake15_tm003_rr10_sr10_speed10_00036acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 18.1942 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 24.9115 s
+  jake15_tm003_rr10_sr10_speed10_00040acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 18.1942 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 25.1782 s
+  jake15_tm003_rr10_sr10_speed10_00041acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 18.1942 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 26.6542 s
+  jake15_tm003_rr10_sr10_speed10_00045acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 18.2031 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 27.3421 s
+  jake15_tm003_rr10_sr10_speed10_00046acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 18.2031 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 30.8106 s
+  jake15_tm003_rr10_sr10_speed10_00050acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 18.9512 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 33.8653 s
+  jake15_tm003_rr10_sr10_speed10_00051acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 18.9512 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 36.5791 s
+  jake15_tm003_rr10_sr10_speed10_00055acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 19.0974 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 38.6135 s
+  jake15_tm003_rr10_sr10_speed10_00056acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 19.0974 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 41.612 s
+  jake15_tm003_rr10_sr10_speed10_00060acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 19.2014 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 43.0933 s
+  jake15_tm003_rr10_sr15_speed10_00001acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 3.44127 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 2.17387 s
+  jake15_tm003_rr10_sr15_speed10_00005acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 8.82291 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 2.44056 s
+  jake15_tm003_rr10_sr15_speed10_00006acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 8.82291 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 3.91653 s
+  jake15_tm003_rr10_sr15_speed10_00010acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 13.4004 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 4.60442 s
+  jake15_tm003_rr10_sr15_speed10_00011acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 14.6765 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 8.07293 s
+  jake15_tm003_rr10_sr15_speed10_00015acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 24.0264 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 11.1277 s
+  jake15_tm003_rr10_sr15_speed10_00016acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 24.0264 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 13.3016 s
+  jake15_tm003_rr10_sr15_speed10_00020acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 24.0264 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 13.5683 s
+  jake15_tm003_rr10_sr15_speed10_00021acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 24.0264 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 15.3742 s
+  jake15_tm003_rr10_sr15_speed10_00025acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 24.1359 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 17.0188 s
+  jake15_tm003_rr10_sr20_speed10_00001acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 3.85905 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 2.17387 s
+  jake15_tm003_rr10_sr20_speed10_00005acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 13.617 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 2.44056 s
+  jake15_tm003_rr10_sr20_speed10_00006acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 13.6174 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 3.91653 s
+  jake15_tm003_rr10_sr20_speed10_00010acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 20.3006 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 4.60442 s
+  jake15_tm003_rr10_sr20_speed10_00011acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 21.1623 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 8.07293 s
+  jake15_tm003_rr10_sr20_speed10_00015acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 34.1652 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 11.1277 s
+  jake15_tm003_rr10_sr30_speed10_00001acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 4.78198 m^2
+    r_min:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    - 2.17387 s
+  jake15_tm003_rr10_sr30_speed10_00005acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 29.5216 m^2
+    r_min:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    - 2.44056 s
+  jake15_tm003_rr10_sr30_speed10_00006acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 29.6281 m^2
+    r_min:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    - 3.91653 s
+  jake15_tm003_rr10_sr30_speed10_00010acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 39.4611 m^2
+    r_min:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    - 4.60442 s
+  jake15_tm003_rr10_sr30_speed10_00011acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 39.527 m^2
+    r_min:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    - 8.07293 s
+  jake15_tm003_rr10_sr30_speed10_00015acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 58.8836 m^2
+    r_min:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    - 11.1277 s
+  jake15_tm003_rr15_sr10_speed10_00001acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 0.553455 m^2
+    r_min:
+    - 1.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 1.06103 s
+  jake15_tm003_rr15_sr10_speed10_00005acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 3.97938 m^2
+    r_min:
+    - 1.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 1.6217 s
+  jake15_tm003_rr15_sr10_speed10_00006acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 3.97938 m^2
+    r_min:
+    - 1.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 2.90251 s
+  jake15_tm003_rr15_sr10_speed10_00010acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 6.84338 m^2
+    r_min:
+    - 1.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 3.76381 s
+  jake15_tm003_rr15_sr15_speed10_00001acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 0.553455 m^2
+    r_min:
+    - 1.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 1.06103 s
+  jake15_tm003_rr15_sr15_speed10_00005acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 8.26032 m^2
+    r_min:
+    - 1.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 1.6217 s
+  jake15_tm003_rr15_sr15_speed10_00006acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 8.26032 m^2
+    r_min:
+    - 1.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 2.90251 s
+  jake15_tm003_rr15_sr15_speed10_00010acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 12.3975 m^2
+    r_min:
+    - 1.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 3.76381 s
+  jake15_tm003_rr15_sr20_speed10_00001acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 0.553455 m^2
+    r_min:
+    - 1.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 1.06103 s
+  jake15_tm003_rr15_sr20_speed10_00005acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 14.1136 m^2
+    r_min:
+    - 1.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 1.6217 s
+  jake15_tm003_rr15_sr20_speed10_00006acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 14.1136 m^2
+    r_min:
+    - 1.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 2.90251 s
+  jake15_tm003_rr15_sr20_speed10_00010acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 19.4887 m^2
+    r_min:
+    - 1.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 3.76381 s
+  jake15_tm003_rr15_sr30_speed10_00001acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 0.553455 m^2
+    r_min:
+    - 1.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 1.06103 s
+  jake15_tm003_rr15_sr30_speed10_00005acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 30.4842 m^2
+    r_min:
+    - 1.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 1.6217 s
+  jake15_tm003_rr15_sr30_speed10_00006acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 30.4842 m^2
+    r_min:
+    - 1.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 2.90251 s
+  jake15_tm003_rr15_sr30_speed10_00010acts:
+    f_max:
+    - 0.03 rad
+    - '`maps: map_jake15'
+    - 38.3181 m^2
+    r_min:
+    - 1.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 3.76381 s
+  jake15_tm004_rr05_sr10_speed10_00001acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 6.03351 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 4.2664 s
+  jake15_tm004_rr05_sr10_speed10_00005acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 9.99271 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 6.57792 s
+  jake15_tm004_rr05_sr10_speed10_00006acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 10.493 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 8.24986 s
+  jake15_tm004_rr05_sr10_speed10_00010acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 17.8993 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 13.6173 s
+  jake15_tm004_rr05_sr10_speed10_00011acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 19.94 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 16.9075 s
+  jake15_tm004_rr05_sr10_speed10_00015acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 26.6779 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 19.6168 s
+  jake15_tm004_rr05_sr10_speed10_00016acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 26.7848 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 24.6657 s
+  jake15_tm004_rr05_sr10_speed10_00020acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 27.3694 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 26.6107 s
+  jake15_tm004_rr05_sr10_speed10_00021acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 27.3694 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 29.9009 s
+  jake15_tm004_rr05_sr10_speed10_00025acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 27.3694 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 32.6102 s
+  jake15_tm004_rr05_sr10_speed10_00026acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 30.0642 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 36.3263 s
+  jake15_tm004_rr05_sr10_speed10_00030acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 33.0619 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 37.9207 s
+  jake15_tm004_rr05_sr10_speed10_00031acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 35.0168 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 44.2714 s
+  jake15_tm004_rr05_sr10_speed10_00035acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 35.2258 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 47.3051 s
+  jake15_tm004_rr05_sr10_speed10_00036acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 35.2258 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 51.5715 s
+  jake15_tm004_rr05_sr10_speed10_00040acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 35.2258 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 53.883 s
+  jake15_tm004_rr05_sr10_speed10_00041acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 35.2927 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 58.901 s
+  jake15_tm004_rr05_sr10_speed10_00045acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 36.1503 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 61.0671 s
+  jake15_tm004_rr05_sr10_speed10_00046acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 36.1503 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 64.6687 s
+  jake15_tm004_rr05_sr10_speed10_00050acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 36.5342 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 67.6576 s
+  jake15_tm004_rr05_sr10_speed10_00051acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 36.5342 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 71.924 s
+  jake15_tm004_rr05_sr10_speed10_00055acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 36.5577 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 73.4614 s
+  jake15_tm004_rr05_sr10_speed10_00056acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 36.5577 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 77.7278 s
+  jake15_tm004_rr05_sr10_speed10_00060acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 36.5577 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 80.0393 s
+  jake15_tm004_rr05_sr10_speed10_00061acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 36.5577 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 81.7119 s
+  jake15_tm004_rr05_sr10_speed10_00065acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 36.7738 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 86.9115 s
+  jake15_tm004_rr05_sr10_speed10_00066acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 36.7738 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 91.1141 s
+  jake15_tm004_rr05_sr10_speed10_00070acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 36.9451 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 92.5128 s
+  jake15_tm004_rr05_sr10_speed10_00071acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 36.9451 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 97.5617 s
+  jake15_tm004_rr05_sr10_speed10_00075acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 36.9451 m^2
+    r_min:
+    - 0.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 99.5068 s
+  jake15_tm004_rr05_sr15_speed10_00001acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 7.63336 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 3.29016 s
+  jake15_tm004_rr05_sr15_speed10_00005acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 18.8027 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 5.99946 s
+  jake15_tm004_rr05_sr15_speed10_00006acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 21.9307 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 9.67987 s
+  jake15_tm004_rr05_sr15_speed10_00010acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 27.3291 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 10.68 s
+  jake15_tm004_rr05_sr15_speed10_00011acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 29.7538 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 17.2409 s
+  jake15_tm004_rr05_sr15_speed10_00015acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 40.6322 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 20.6461 s
+  jake15_tm004_rr05_sr15_speed10_00016acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 40.6322 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 23.9363 s
+  jake15_tm004_rr05_sr15_speed10_00020acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 40.6322 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 26.6456 s
+  jake15_tm004_rr05_sr15_speed10_00021acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 40.7538 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 30.3617 s
+  jake15_tm004_rr05_sr15_speed10_00025acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 41.4965 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 31.9561 s
+  jake15_tm004_rr05_sr15_speed10_00026acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 41.4965 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 38.3068 s
+  jake15_tm004_rr05_sr15_speed10_00030acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 41.5479 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 41.3405 s
+  jake15_tm004_rr05_sr15_speed10_00031acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 41.5479 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 45.543 s
+  jake15_tm004_rr05_sr15_speed10_00035acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 41.7328 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 46.9418 s
+  jake15_tm004_rr05_sr15_speed10_00036acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 41.7328 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 51.9907 s
+  jake15_tm004_rr05_sr15_speed10_00040acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 41.8297 m^2
+    r_min:
+    - 0.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 53.9358 s
+  jake15_tm004_rr05_sr20_speed10_00001acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 9.41031 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 3.29016 s
+  jake15_tm004_rr05_sr20_speed10_00005acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 25.8279 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 5.99946 s
+  jake15_tm004_rr05_sr20_speed10_00006acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 29.1752 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 9.67987 s
+  jake15_tm004_rr05_sr20_speed10_00010acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 38.5807 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 10.68 s
+  jake15_tm004_rr05_sr20_speed10_00011acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 40.0199 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 17.2409 s
+  jake15_tm004_rr05_sr20_speed10_00015acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 56.7781 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 20.6461 s
+  jake15_tm004_rr05_sr20_speed10_00016acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 56.7781 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 23.9363 s
+  jake15_tm004_rr05_sr20_speed10_00020acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 56.7781 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 26.6456 s
+  jake15_tm004_rr05_sr20_speed10_00021acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 56.7792 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 30.3617 s
+  jake15_tm004_rr05_sr20_speed10_00025acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 57.9019 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 31.9561 s
+  jake15_tm004_rr05_sr20_speed10_00026acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 57.9019 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 38.3068 s
+  jake15_tm004_rr05_sr20_speed10_00030acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 57.9507 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 41.3405 s
+  jake15_tm004_rr05_sr20_speed10_00031acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 57.9507 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 45.543 s
+  jake15_tm004_rr05_sr20_speed10_00035acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 58.0883 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 46.9418 s
+  jake15_tm004_rr05_sr20_speed10_00036acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 58.0883 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 51.9907 s
+  jake15_tm004_rr05_sr20_speed10_00040acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 58.1774 m^2
+    r_min:
+    - 0.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 53.9358 s
+  jake15_tm004_rr05_sr30_speed10_00001acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 12.9522 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 3.29016 s
+  jake15_tm004_rr05_sr30_speed10_00005acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 43.4359 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 5.99946 s
+  jake15_tm004_rr05_sr30_speed10_00006acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 44.9341 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 9.67987 s
+  jake15_tm004_rr05_sr30_speed10_00010acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 62.8515 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 10.68 s
+  jake15_tm004_rr05_sr30_speed10_00011acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 63.3285 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 17.2409 s
+  jake15_tm004_rr05_sr30_speed10_00015acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 92.647 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 20.6461 s
+  jake15_tm004_rr05_sr30_speed10_00016acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 92.647 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 23.9363 s
+  jake15_tm004_rr05_sr30_speed10_00020acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 92.647 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 26.6456 s
+  jake15_tm004_rr05_sr30_speed10_00021acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 92.647 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 30.3617 s
+  jake15_tm004_rr05_sr30_speed10_00025acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 93.344 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 31.9561 s
+  jake15_tm004_rr05_sr30_speed10_00026acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 93.344 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 38.3068 s
+  jake15_tm004_rr05_sr30_speed10_00030acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 93.3876 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 41.3405 s
+  jake15_tm004_rr05_sr30_speed10_00031acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 93.3876 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 45.543 s
+  jake15_tm004_rr05_sr30_speed10_00035acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 93.4934 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 46.9418 s
+  jake15_tm004_rr05_sr30_speed10_00036acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 93.4934 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 51.9907 s
+  jake15_tm004_rr05_sr30_speed10_00040acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 93.5692 m^2
+    r_min:
+    - 0.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 53.9358 s
+  jake15_tm004_rr10_sr10_speed10_00001acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 3.04651 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 2.824 s
+  jake15_tm004_rr10_sr10_speed10_00005acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 7.11792 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 4.8622 s
+  jake15_tm004_rr10_sr10_speed10_00006acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 7.11792 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 5.53729 s
+  jake15_tm004_rr10_sr10_speed10_00010acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 12.9521 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 10.3484 s
+  jake15_tm004_rr10_sr10_speed10_00011acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 13.6177 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 12.5506 s
+  jake15_tm004_rr10_sr10_speed10_00015acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 15.9485 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 12.7331 s
+  jake15_tm004_rr10_sr10_speed10_00016acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 15.9915 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 15.0867 s
+  jake15_tm004_rr10_sr10_speed10_00020acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 16.1931 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 15.4291 s
+  jake15_tm004_rr10_sr10_speed10_00021acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 16.1931 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 17.6313 s
+  jake15_tm004_rr10_sr10_speed10_00025acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 16.1931 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 17.8139 s
+  jake15_tm004_rr10_sr10_speed10_00026acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 16.2384 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 19.4534 s
+  jake15_tm004_rr10_sr10_speed10_00030acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 18.1945 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 20.5145 s
+  jake15_tm004_rr10_sr10_speed10_00031acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 18.1945 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 22.5947 s
+  jake15_tm004_rr10_sr10_speed10_00035acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 18.1947 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 22.8554 s
+  jake15_tm004_rr10_sr10_speed10_00036acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 18.1947 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 25.0576 s
+  jake15_tm004_rr10_sr10_speed10_00040acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 18.1947 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 25.2401 s
+  jake15_tm004_rr10_sr10_speed10_00041acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 18.1947 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 26.7303 s
+  jake15_tm004_rr10_sr10_speed10_00045acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 18.2049 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 27.4765 s
+  jake15_tm004_rr10_sr10_speed10_00046acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 18.2049 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 30.7309 s
+  jake15_tm004_rr10_sr10_speed10_00050acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 18.9255 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 33.5697 s
+  jake15_tm004_rr10_sr10_speed10_00051acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 18.9255 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 36.3937 s
+  jake15_tm004_rr10_sr10_speed10_00055acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 18.9255 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 38.4319 s
+  jake15_tm004_rr10_sr10_speed10_00056acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 18.9255 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 41.1919 s
+  jake15_tm004_rr10_sr10_speed10_00060acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 19.0329 m^2
+    r_min:
+    - 1.0 m
+    - 1.0 m
+    - 1.0 m/s
+    - 42.9825 s
+  jake15_tm004_rr10_sr15_speed10_00001acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 3.41644 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 2.2022 s
+  jake15_tm004_rr10_sr15_speed10_00005acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 8.73558 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 2.38471 s
+  jake15_tm004_rr10_sr15_speed10_00006acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 8.73558 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 3.87491 s
+  jake15_tm004_rr10_sr15_speed10_00010acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 13.4342 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 4.62108 s
+  jake15_tm004_rr10_sr15_speed10_00011acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 14.7007 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 8.04387 s
+  jake15_tm004_rr10_sr15_speed10_00015acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 24.0024 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 11.1315 s
+  jake15_tm004_rr10_sr15_speed10_00016acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 24.0024 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 13.3337 s
+  jake15_tm004_rr10_sr15_speed10_00020acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 24.0024 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 13.5162 s
+  jake15_tm004_rr10_sr15_speed10_00021acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 24.0024 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 15.0064 s
+  jake15_tm004_rr10_sr15_speed10_00025acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 24.0024 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 15.7525 s
+  jake15_tm004_rr10_sr15_speed10_00026acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 24.0024 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 18.2 s
+  jake15_tm004_rr10_sr15_speed10_00030acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 24.1265 m^2
+    r_min:
+    - 1.0 m
+    - 1.5 m
+    - 1.0 m/s
+    - 19.6788 s
+  jake15_tm004_rr10_sr20_speed10_00001acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 3.82873 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 2.2022 s
+  jake15_tm004_rr10_sr20_speed10_00005acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 13.3919 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 2.38471 s
+  jake15_tm004_rr10_sr20_speed10_00006acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 13.3919 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 3.87491 s
+  jake15_tm004_rr10_sr20_speed10_00010acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 20.3501 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 4.62108 s
+  jake15_tm004_rr10_sr20_speed10_00011acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 21.2421 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 8.04387 s
+  jake15_tm004_rr10_sr20_speed10_00015acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 34.1463 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 11.1315 s
+  jake15_tm004_rr10_sr20_speed10_00016acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 34.1463 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 13.3337 s
+  jake15_tm004_rr10_sr20_speed10_00020acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 34.1463 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 13.5162 s
+  jake15_tm004_rr10_sr20_speed10_00021acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 34.1463 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 15.0064 s
+  jake15_tm004_rr10_sr20_speed10_00025acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 34.1463 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 15.7525 s
+  jake15_tm004_rr10_sr20_speed10_00026acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 34.1463 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 18.2 s
+  jake15_tm004_rr10_sr20_speed10_00030acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 34.2603 m^2
+    r_min:
+    - 1.0 m
+    - 2.0 m
+    - 1.0 m/s
+    - 19.6788 s
+  jake15_tm004_rr10_sr30_speed10_00001acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 4.75871 m^2
+    r_min:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    - 2.2022 s
+  jake15_tm004_rr10_sr30_speed10_00005acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 29.0526 m^2
+    r_min:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    - 2.38471 s
+  jake15_tm004_rr10_sr30_speed10_00006acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 29.1625 m^2
+    r_min:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    - 3.87491 s
+  jake15_tm004_rr10_sr30_speed10_00010acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 39.4937 m^2
+    r_min:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    - 4.62108 s
+  jake15_tm004_rr10_sr30_speed10_00011acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 39.5829 m^2
+    r_min:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    - 8.04387 s
+  jake15_tm004_rr10_sr30_speed10_00015acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 58.8692 m^2
+    r_min:
+    - 1.0 m
+    - 3.0 m
+    - 1.0 m/s
+    - 11.1315 s
+  jake15_tm004_rr15_sr10_speed10_00001acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 0.553455 m^2
+    r_min:
+    - 1.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 1.05775 s
+  jake15_tm004_rr15_sr10_speed10_00005acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 3.91188 m^2
+    r_min:
+    - 1.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 1.5778 s
+  jake15_tm004_rr15_sr10_speed10_00006acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 3.91188 m^2
+    r_min:
+    - 1.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 2.83928 s
+  jake15_tm004_rr15_sr10_speed10_00010acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 6.78499 m^2
+    r_min:
+    - 1.5 m
+    - 1.0 m
+    - 1.0 m/s
+    - 3.69224 s
+  jake15_tm004_rr15_sr15_speed10_00001acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 0.553455 m^2
+    r_min:
+    - 1.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 1.05775 s
+  jake15_tm004_rr15_sr15_speed10_00005acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 8.15941 m^2
+    r_min:
+    - 1.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 1.5778 s
+  jake15_tm004_rr15_sr15_speed10_00006acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 8.15941 m^2
+    r_min:
+    - 1.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 2.83928 s
+  jake15_tm004_rr15_sr15_speed10_00010acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 12.3218 m^2
+    r_min:
+    - 1.5 m
+    - 1.5 m
+    - 1.0 m/s
+    - 3.69224 s
+  jake15_tm004_rr15_sr20_speed10_00001acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 0.553455 m^2
+    r_min:
+    - 1.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 1.05775 s
+  jake15_tm004_rr15_sr20_speed10_00005acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 13.9808 m^2
+    r_min:
+    - 1.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 1.5778 s
+  jake15_tm004_rr15_sr20_speed10_00006acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 13.9808 m^2
+    r_min:
+    - 1.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 2.83928 s
+  jake15_tm004_rr15_sr20_speed10_00010acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 19.395 m^2
+    r_min:
+    - 1.5 m
+    - 2.0 m
+    - 1.0 m/s
+    - 3.69224 s
+  jake15_tm004_rr15_sr30_speed10_00001acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 0.553455 m^2
+    r_min:
+    - 1.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 1.05775 s
+  jake15_tm004_rr15_sr30_speed10_00005acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 30.2879 m^2
+    r_min:
+    - 1.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 1.5778 s
+  jake15_tm004_rr15_sr30_speed10_00006acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 30.2879 m^2
+    r_min:
+    - 1.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 2.83928 s
+  jake15_tm004_rr15_sr30_speed10_00010acts:
+    f_max:
+    - 0.04 rad
+    - '`maps: map_jake15'
+    - 38.1883 m^2
+    r_min:
+    - 1.5 m
+    - 3.0 m
+    - 1.0 m/s
+    - 3.69224 s

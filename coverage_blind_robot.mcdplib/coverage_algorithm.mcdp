@@ -1,5 +1,5 @@
 dp {
-  provides covered_set [`guaranteed_coverage] # functionality of the algorithm. One instance
+  # provides covered_set [`guaranteed_coverage] # functionality of the algorithm. One instance
   provides angular_actuation_error_budget [rad]
   provides map [`maps]
   provides covered_area [m^2]
@@ -9,5 +9,5 @@ dp {
   requires speed_of_robot [m/s]
   requires execution_time [s]
 
-  implemented-by yaml resource("coverage_algorithm_catalogues/coverage_algorithm_catalogue.yaml")
+  implemented-by yaml resource("coverage_algorithm_catalogues/jake215_algorithm_catalogue.yaml")
 }

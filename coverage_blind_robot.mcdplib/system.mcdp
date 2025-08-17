@@ -8,7 +8,6 @@ mcdp {
   requires total_execution_time [s]
 
   coverage_algorithm_dp = instance `coverage_algorithm # finds and instantiates the coverage algorithm dp
-  ignore covered_set provided by coverage_algorithm_dp
   robot_dp = instance `robot # finds and instantiates the robot dp
 
   # connecting the overall coverage with the coverage of the algorithm
