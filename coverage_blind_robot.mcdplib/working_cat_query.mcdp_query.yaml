@@ -1,0 +1,11 @@
+title: Query query_fleet_designer_000
+description: ''
+model: '`test_cat'
+query:
+  query_type: FixFunMinRes
+  max_r:
+    cost: "100 USD"
+  min_f:
+    area: "12 m^2"
+  optimize_for:
+  - cost

@@ -1,0 +1,10 @@
+optimistic:
+  minimals: frozenset({(Decimal('10.000000000'),)})
+  pretty: ↑{⟨10 USD⟩}
+  imps:
+    pretty: '↑{⟨10 USD⟩: ⟨·,⟨10ᵒᵖ⟩⟩ ⟨⟨⟨⟩,⟨USD⟩⟩⟩}'
+pessimistic:
+  minimals: frozenset({(Decimal('10.000000000'),)})
+  pretty: ↑{⟨10 USD⟩}
+  imps:
+    pretty: '↑{⟨10 USD⟩: ⟨·,⟨10ᵒᵖ⟩⟩ ⟨⟨⟨⟩,⟨USD⟩⟩⟩}'

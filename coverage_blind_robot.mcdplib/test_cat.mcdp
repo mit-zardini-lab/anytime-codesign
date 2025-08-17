@@ -1,0 +1,7 @@
+catalog {
+    provides area [m^2]
+    requires cost [USD]
+
+    12 m^2 <-| imp1 |-> 10 USD
+    14 m^2 <-| imp2 |-> 10 USD
+}

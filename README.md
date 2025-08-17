@@ -146,3 +146,84 @@ We think that this is related to a bug in the mcdp solver. Interestingly, going 
 * `20241106`: no bug
 
 So it seems the bug was introduced from version `20241106` to version `20241204`. We recall a discussion with Gioele, in which he mentioned that around late 2024 (circa 2024-10 to 2024-11), a bug related to displaying the correct implementation for the Ferrari project has been fixed - maybe the bug was introduced during that update.
+
+# Another bug related to implementations
+
+Another bug we became aware of regards no display of implementations at all. We built a very simple setup to demonstrate the bug. The following catalog is given (`test_cat.mcdp`):
+
+```plaintext
+# test_cat.mcdp
+catalog {
+    provides area [m^2]
+    requires cost [USD]
+
+    12 m^2 <-| imp1 |-> 10 USD
+    14 m^2 <-| imp2 |-> 10 USD
+}
+```
+
+When running the following query (`working_cat_query.mcdp_query.yaml`):
+
+```yaml
+title: Query query_fleet_designer_000
+description: ''
+model: '`test_cat'
+query:
+  query_type: FixFunMinRes
+  max_r:
+    cost: "100 USD"
+  min_f:
+    area: "12 m^2"
+  optimize_for:
+  - cost
+```
+
+we get the expected result (`working_output.yaml`) which also shows that `imp1` is the optimal implementation:
+
+```yaml
+optimistic:
+  minimals: frozenset({(Decimal('10.000000000'),)})
+  pretty: ↑{⟨10 USD⟩}
+  imps:
+    pretty: '↑{⟨10 USD⟩: imp1}'
+pessimistic:
+  minimals: frozenset({(Decimal('10.000000000'),)})
+  pretty: ↑{⟨10 USD⟩}
+  imps:
+    pretty: '↑{⟨10 USD⟩: imp1}'
+```
+
+However, when running the query asking for 14 m^2 as functionality (`bug_cat_query.mcdp_query.yaml`):
+
+```yaml
+title: Query query_fleet_designer_000
+description: ''
+model: '`test_cat'
+query:
+  query_type: FixFunMinRes
+  max_r:
+    cost: "100 USD"
+  min_f:
+    area: "14 m^2"
+  optimize_for:
+  - cost
+```
+
+we get the following result (`bug_output.yaml`):
+
+```yaml
+optimistic:
+  minimals: frozenset({(Decimal('10.000000000'),)})
+  pretty: ↑{⟨10 USD⟩}
+  imps:
+    pretty: '↑{⟨10 USD⟩: ⟨·,⟨10ᵒᵖ⟩⟩ ⟨⟨⟨⟩,⟨USD⟩⟩⟩}'
+pessimistic:
+  minimals: frozenset({(Decimal('10.000000000'),)})
+  pretty: ↑{⟨10 USD⟩}
+  imps:
+    pretty: '↑{⟨10 USD⟩: ⟨·,⟨10ᵒᵖ⟩⟩ ⟨⟨⟨⟩,⟨USD⟩⟩⟩}'
+```
+
+Hence, we see that it is possible to get 14 m^2 of coverage for 10 USD, but there are no implementations displayed (it should be `imp2`).
+
+Similiar to above, we tested the queries also for version `20241106` of the mcdp solver. However, this bug is also present in that version (the only difference is that in the working example `imp2` is shown as optimal, which is also correct as both `imp1` and `imp2` have the same cost).
