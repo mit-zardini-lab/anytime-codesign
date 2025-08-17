@@ -1,0 +1,20 @@
+optimistic:
+  minimals: frozenset({(Decimal('10.000000000'),)})
+  pretty: ↑{⟨10 USD⟩}
+  all_solutions:
+  - r: ⟨10 USD⟩
+    assignment:
+      functionality: {}
+      resources: {}
+      b: imp1
+      sub: {}
+pessimistic:
+  minimals: frozenset({(Decimal('10.000000000'),)})
+  pretty: ↑{⟨10 USD⟩}
+  all_solutions:
+  - r: ⟨10 USD⟩
+    assignment:
+      functionality: {}
+      resources: {}
+      b: imp1
+      sub: {}

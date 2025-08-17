@@ -227,3 +227,72 @@ pessimistic:
 Hence, we see that it is possible to get 14 m^2 of coverage for 10 USD, but there are no implementations displayed (it should be `imp2`).
 
 Similiar to above, we tested the queries also for version `20241106` of the mcdp solver. However, this bug is also present in that version (the only difference is that in the working example `imp2` is shown as optimal, which is also correct as both `imp1` and `imp2` have the same cost).
+
+## Remarks
+The problem also persists when instead of using `catalog {}`, we implement the catalog in a separate `yaml` file (see `test_cat_yaml.mcdp`).
+
+Interestingly, when instead of using the `yaml representation` of the query:
+
+```bash
+mcdp-solve-query bug_cat_query --nocache --imp
+```
+
+we use `mcdp-solve`:
+
+```bash
+mcdp-solve test_cat "12 m^2" --nocache --imp
+mcdp-solve test_cat "14 m^2" --nocache --imp
+```
+
+the error no longer exists. The results for the first query is:
+
+```yaml
+optimistic:
+  minimals: frozenset({(Decimal('10.000000000'),)})
+  pretty: ↑{⟨10 USD⟩}
+  all_solutions:
+  - r: ⟨10 USD⟩
+    assignment:
+      functionality: {}
+      resources: {}
+      b: imp1
+      sub: {}
+pessimistic:
+  minimals: frozenset({(Decimal('10.000000000'),)})
+  pretty: ↑{⟨10 USD⟩}
+  all_solutions:
+  - r: ⟨10 USD⟩
+    assignment:
+      functionality: {}
+      resources: {}
+      b: imp1
+      sub: {}
+
+```
+
+and the result for the second query is:
+
+```yaml
+optimistic:
+  minimals: frozenset({(Decimal('10.000000000'),)})
+  pretty: ↑{⟨10 USD⟩}
+  all_solutions:
+  - r: ⟨10 USD⟩
+    assignment:
+      functionality: {}
+      resources: {}
+      b: imp2
+      sub: {}
+pessimistic:
+  minimals: frozenset({(Decimal('10.000000000'),)})
+  pretty: ↑{⟨10 USD⟩}
+  all_solutions:
+  - r: ⟨10 USD⟩
+    assignment:
+      functionality: {}
+      resources: {}
+      b: imp2
+      sub: {}
+```
+
+**Note:** It is also interesting to note, that the output prints are different (entry wise) when running `mcdp-solve-query` and `mcdp-solve`, respectively.

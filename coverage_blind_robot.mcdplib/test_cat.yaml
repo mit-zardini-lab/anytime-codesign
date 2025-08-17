@@ -1,0 +1,17 @@
+F:
+- m^2
+R:
+- USD
+implementations:
+  imp1:
+    f_max:
+    - 12.0 m^2
+    r_min:
+    - 10.0 USD
+  imp2:
+    f_max:
+    - 14.0 m^2
+    r_min:
+    - 10.0 USD
+
+    

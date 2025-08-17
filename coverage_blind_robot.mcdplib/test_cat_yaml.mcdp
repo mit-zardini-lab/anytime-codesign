@@ -1,0 +1,6 @@
+dp {
+    provides area [m^2]
+    requires cost [USD]
+
+    implemented-by yaml resource("test_cat.yaml")
+}
