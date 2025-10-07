@@ -231,13 +231,7 @@ Similiar to above, we tested the queries also for version `20241106` of the mcdp
 ## Remarks
 The problem also persists when instead of using `catalog {}`, we implement the catalog in a separate `yaml` file (see `test_cat_yaml.mcdp`).
 
-Interestingly, when instead of using the `yaml representation` of the query:
-
-```bash
-mcdp-solve-query bug_cat_query --nocache --imp
-```
-
-we use `mcdp-solve`:
+Interestingly, when we use `mcdp-solve`:
 
 ```bash
 mcdp-solve test_cat "12 m^2" --nocache --imp
